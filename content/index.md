@@ -2,6 +2,8 @@
 title: Monster Alchemy Wiki
 ---
 
+![Logo](assets/ui/LogoWhite.png)
+
 Welcome to the official Monster Alchemy wiki — your complete guide to monsters, items, mechanics and more.
 
 ## Browse
