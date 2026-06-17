@@ -19,8 +19,8 @@ Cosa que hace skill 2
 
 | Rarity | Drop |
 |------|-------|
-| Common   | 320   |
-| Uncommon  | 85    |
-| Rare  | 60    |
+| Common   | Wood   |
+| Uncommon  | Stone    |
+| Rare  | Gato Chingón    |
 
 ![Stick Golem](../assets/monsters/stickgolem.jpg)
