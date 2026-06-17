@@ -7,4 +7,4 @@ tags: [neutral, strike, tier1]
 
 Your content here.
 
-![Stick Golem](../assets/monsters/stickgolem.png)
+![Stick Golem](../assets/monsters/stickgolem.jpg)
