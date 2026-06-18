@@ -1,0 +1,6 @@
+---
+tags:
+  - character
+  - zanel
+  - knight
+---

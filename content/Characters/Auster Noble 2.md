@@ -1,0 +1,6 @@
+---
+tags:
+  - noble
+  - zanel
+  - character
+---

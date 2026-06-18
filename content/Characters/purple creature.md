@@ -1,14 +1,17 @@
 ---
-title: Zosimos
-tags: [character, npc, alchemist]
+title: Purple Creature
+tags:
+  - character
+  - monster
+  - monster-kingdom
 ---
 <div class="character-card">
   <div class="character-header">
     <img src="/assets/characters/P_Zosimos.PNG" alt="Zosimos" class="character-img" />
     <div class="character-header-text">
-      <span class="character-name">Zosimos</span>
-      <span class="character-role">Alchemist</span>
-      <span class="character-affiliation">Independent</span>
+      <span class="character-name">Purple Creature</span>
+      <span class="character-role">???</span>
+      <span class="character-affiliation">Monster Federation</span>
     </div>
   </div>
 
@@ -25,7 +28,8 @@ tags: [character, npc, alchemist]
         <tr><th>Location</th><th>Role</th></tr>
       </thead>
       <tbody>
-        <tr><td><a href="/locations/aetheria">Aetheria Entrance</a></td><td>First encounter — introduces the world and core mechanics</td></tr>
+        <tr><td><a href="/locations/southern-peninsula">Southern Peninsula</a></td><td>Aparece después de craftear tus primeros monstruos.</td></tr>
+        <tr><td><a href="/locations/river-crossing">River Crossing</a></td><td>Aparece después de que Pollux te derrote.</td></tr>
       </tbody>
     </table>
   </div>

@@ -1,0 +1,6 @@
+---
+tags:
+  - aspirant
+  - akaw
+  - character
+---
