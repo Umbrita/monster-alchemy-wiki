@@ -10,16 +10,5 @@ tags: [item]
       <span class="item-desc">Rare feather of a winged creature. It is said to have spiritual properties.</span>
     </div>
   </div>
-  <div class="item-drops">
-    <h3>Dropped By</h3>
-    <table>
-      <thead><tr><th>Rarity</th><th>Monster</th></tr></thead>
-      <tbody>
-        <tr><td>Epic</td><td><a href="/monsters/scout">Scout</a></td></tr>
-        <tr><td>Rare</td><td><a href="/monsters/razorbeak">Razorbeak</a></td></tr>
-        <tr><td>Rare</td><td><a href="/monsters/northern-warrior">Northern Warrior</a></td></tr>
-      </tbody>
-    </table>
-  </div>
 
 </div>

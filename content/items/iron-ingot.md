@@ -10,21 +10,11 @@ tags: [item]
       <span class="item-desc">Metal made into a convenient form that can be used in more advanced constructions.</span>
     </div>
   </div>
-  <div class="item-drops">
-    <h3>Dropped By</h3>
-    <table>
-      <thead><tr><th>Rarity</th><th>Monster</th></tr></thead>
-      <tbody>
-        <tr><td>Rare</td><td><a href="/monsters/floating-helmet">Floating Helmet</a></td></tr>
-        <tr><td>Common</td><td><a href="/monsters/floating-armor">Floating Armor</a></td></tr>
-      </tbody>
-    </table>
-  </div>
   <div class="item-recipe">
     <h3>Craft Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/furnace" class="recipe-room">Furnace</a>
-      <span class="recipe-work">⚡ 10 Work Power</span>
+      <a href="/rooms/furnace" class="recipe-room">Furnace</a>
+      <span class="recipe-work">10 Work Power</span>
     </div>
     <table>
       <thead><tr><th>Ingredient</th><th>Amount</th></tr></thead>

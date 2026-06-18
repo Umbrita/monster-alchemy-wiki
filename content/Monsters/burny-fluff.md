@@ -18,29 +18,22 @@ tags: [fire, projectile, tier1]
     It lives in a constant state of panic because it is burning. But its fur resists fire so it is not really in danger.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>52</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>42</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>35</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>65</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>45</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>50</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>52</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>42</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>35</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>65</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>45</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>50</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/pyroclast">Pyroclast</a></td></tr>
-          <tr><td>5</td><td><a href="/skills/heat-wave">Heat Wave</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/pyroclast">Pyroclast</a></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/heatwave">HeatWave</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/static-fur"><strong>Static Fur</strong></a></br> When hit by an attack, inflict 1 <img id="Shock"/> Shock to the attacker.</p>
+      <p class="passive-block"><a href="/mechanics/passives/staticfur"><strong>Static Fur</strong></a><br/> When hit by an attack, inflict 1 <img id="Shock"/> Shock to the attacker.</p>
     </div>
   </div>
   <div class="monster-drops">

@@ -7,9 +7,8 @@ tags: [item]
     <img src="/assets/items/t_crystalingot.PNG" alt="Crystal Ingot" class="item-icon-large" />
     <div class="item-header-text">
       <span class="item-name">Crystal Ingot</span>
-      <span class="item-desc">—</span>
+      <span class="item-desc"></span>
     </div>
   </div>
-
 
 </div>

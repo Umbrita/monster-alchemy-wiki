@@ -10,12 +10,11 @@ tags: [item]
       <span class="item-desc">Mixture of elements that amplify lunar waves. They are used in complex rituals.</span>
     </div>
   </div>
-
   <div class="item-recipe">
     <h3>Craft Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/crusher" class="recipe-room">Crusher</a>
-      <span class="recipe-work">⚡ 10 Work Power</span>
+      <a href="/rooms/crusher" class="recipe-room">Crusher</a>
+      <span class="recipe-work">10 Work Power</span>
     </div>
     <table>
       <thead><tr><th>Ingredient</th><th>Amount</th></tr></thead>

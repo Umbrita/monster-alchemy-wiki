@@ -10,14 +10,5 @@ tags: [item]
       <span class="item-desc">The currency from this world. Can be exchanged for items.</span>
     </div>
   </div>
-  <div class="item-drops">
-    <h3>Dropped By</h3>
-    <table>
-      <thead><tr><th>Rarity</th><th>Monster</th></tr></thead>
-      <tbody>
-        <tr><td>Common</td><td><a href="/monsters/gnome">Gnome</a></td></tr>
-      </tbody>
-    </table>
-  </div>
 
 </div>

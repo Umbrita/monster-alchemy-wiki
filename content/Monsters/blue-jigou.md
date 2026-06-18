@@ -18,32 +18,33 @@ tags: [water, strike, tier2]
     They say it helps those who get lost in blizzards.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>75</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>65</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>55</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>65</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>45</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>50</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>75</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>65</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>55</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>65</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>45</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>50</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/boreal-gale">Boreal Gale</a></td></tr>
-          <tr><td>8</td><td><a href="/skills/icicle-dart">Icicle Dart</a><br/><span class="skill-desc">This skill can target any enemy.</span></td></tr>
-          <tr><td>18</td><td><a href="/skills/rock-avalanche">Rock Avalanche</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/borealgale">BorealGale</a></td></tr>
+          <tr><td>8</td><td><a href="/mechanics/skills/icicledart">IcicleDart</a><br/><span class="skill-desc">This skill can target any enemy.</span></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/rockavalanche">RockAvalanche</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/boreal-spirit"><strong>Boreal Spirit</strong></a></br> When inflicted by <img id="Freeze"/> Freeze, gain 5 <img id="Rage"/> Rage.</p>
+      <p class="passive-block"><a href="/mechanics/passives/borealspirit"><strong>Boreal Spirit</strong></a><br/> When inflicted by <img id="Freeze"/> Freeze, gain 5 <img id="Rage"/> Rage.</p>
     </div>
   </div>
+  <div class="monster-drops">
+    <h3>Drops</h3>
+    <table>
+      <thead><tr><th>Rarity</th><th>Item</th></tr></thead>
+      <tbody>
 
+      </tbody>
+    </table>
+  </div>
 
 </div>

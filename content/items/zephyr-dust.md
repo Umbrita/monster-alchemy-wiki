@@ -10,12 +10,11 @@ tags: [item]
       <span class="item-desc">Powder with supernatural properties. It is said to channel the energy of the wind.</span>
     </div>
   </div>
-
   <div class="item-recipe">
     <h3>Craft Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/crusher" class="recipe-room">Crusher</a>
-      <span class="recipe-work">⚡ 10 Work Power</span>
+      <a href="/rooms/crusher" class="recipe-room">Crusher</a>
+      <span class="recipe-work">10 Work Power</span>
     </div>
     <table>
       <thead><tr><th>Ingredient</th><th>Amount</th></tr></thead>

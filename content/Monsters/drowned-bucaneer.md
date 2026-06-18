@@ -18,30 +18,23 @@ tags: [water, projectile, tier2]
     It still searches for its crew even after death.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>50</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>80</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>40</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>75</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>55</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>55</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>50</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>80</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>40</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>75</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>55</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>55</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/bubble-blast">Bubble Blast</a><br/><span class="skill-desc">This skill can target any enemy.</span></td></tr>
-          <tr><td>8</td><td><a href="/skills/point-blank-shot">Point Blank Shot</a></td></tr>
-          <tr><td>18</td><td><a href="/skills/krakens-fury">Krakens Fury</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/bubbleblast">BubbleBlast</a><br/><span class="skill-desc">This skill can target any enemy.</span></td></tr>
+          <tr><td>8</td><td><a href="/mechanics/skills/pointblankshot">PointBlankShot</a></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/krakensfury">KrakensFury</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/merciless"><strong>Merciless</strong></a></br> 25% critical chance against enemies with <img id="Weak"/> Weak.</p>
+      <p class="passive-block"><a href="/mechanics/passives/merciless"><strong>Merciless</strong></a><br/> 25% critical chance against enemies with <img id="Weak"/> Weak.</p>
     </div>
   </div>
   <div class="monster-drops">

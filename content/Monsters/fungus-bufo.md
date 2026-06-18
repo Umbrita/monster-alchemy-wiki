@@ -18,30 +18,23 @@ tags: [nature, strike, tier1]
     They grow the mushroom on their back throughout their entire life; if it gets sick they do too.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>60</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>35</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>45</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>48</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>48</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>35</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>60</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>35</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>45</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>48</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>48</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>35</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/sticky-strike">Sticky Strike</a><br/><span class="skill-desc">Inflicts 2 <img id="Slow"/> Slow.</span></td></tr>
-          <tr><td>5</td><td><a href="/skills/mystic-pulse">Mystic Pulse</a></td></tr>
-          <tr><td>18</td><td><a href="/skills/overwhelming-slam">Overwhelming Slam</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/stickystrike">StickyStrike</a><br/><span class="skill-desc">Inflicts 2 <img id="Slow"/> Slow.</span></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/mysticpulse">MysticPulse</a></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/overwhelmingslam">OverwhelmingSlam</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/toxic-fumes"><strong>Toxic Fumes</strong></a></br> When hit by an attack, inflict 2 <img id="Poison"/> Poison to the enemy frontline.</p>
+      <p class="passive-block"><a href="/mechanics/passives/toxicfumes"><strong>Toxic Fumes</strong></a><br/> When hit by an attack, inflict 2 <img id="Poison"/> Poison to the enemy frontline.</p>
     </div>
   </div>
   <div class="monster-drops">
@@ -56,7 +49,7 @@ tags: [nature, strike, tier1]
   <div class="monster-recipe">
     <h3>Summoning Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/summoning-circle" class="recipe-room">Summoning Circle</a>
+      <a href="/rooms/circle-of-summoning" class="recipe-room">Circle Of Summoning</a>
       <span class="recipe-work">20 Work Power</span>
     </div>
     <table>

@@ -10,12 +10,11 @@ tags: [item]
       <span class="item-desc">Artificial heart made from vegetables. Just being near it conveys you with determination.</span>
     </div>
   </div>
-
   <div class="item-recipe">
     <h3>Craft Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/furnace" class="recipe-room">Furnace</a>
-      <span class="recipe-work">⚡ 10 Work Power</span>
+      <a href="/rooms/furnace" class="recipe-room">Furnace</a>
+      <span class="recipe-work">10 Work Power</span>
     </div>
     <table>
       <thead><tr><th>Ingredient</th><th>Amount</th></tr></thead>

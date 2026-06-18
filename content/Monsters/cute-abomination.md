@@ -18,30 +18,23 @@ tags: [energy, slash, tier1]
     Its gaze is always vacant yet it is aware of everything happening around it.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>40</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>55</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>50</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>45</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>45</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>45</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>40</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>55</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>50</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>45</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>45</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>45</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/sharp-claw">Sharp Claw</a></td></tr>
-          <tr><td>5</td><td><a href="/skills/charged-mind">Charged Mind</a></td></tr>
-          <tr><td>18</td><td><a href="/skills/swift-slash">Swift Slash</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/sharpclaw">SharpClaw</a></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/chargedmind">ChargedMind</a></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/swiftslash">SwiftSlash</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/malfunction"><strong>Malfunction</strong></a></br> Gain 1 <img id="Charge"/> Charge or 1 <img id="Shock"/> Shock at battle start.</p>
+      <p class="passive-block"><a href="/mechanics/passives/malfunction"><strong>Malfunction</strong></a><br/> Gain 1 <img id="Charge"/> Charge or 1 <img id="Shock"/> Shock at battle start.</p>
     </div>
   </div>
   <div class="monster-drops">
@@ -56,7 +49,7 @@ tags: [energy, slash, tier1]
   <div class="monster-recipe">
     <h3>Summoning Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/necromancy-circle" class="recipe-room">Necromancy Circle</a>
+      <a href="/rooms/circle-of-necromancy" class="recipe-room">Circle Of Necromancy</a>
       <span class="recipe-work">10 Work Power</span>
     </div>
     <table>

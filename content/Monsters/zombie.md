@@ -18,31 +18,24 @@ tags: [nature, strike, tier1]
     The favorite creature of necromancers obedient yet lethal.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>80</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>45</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>34</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>40</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>40</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>35</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>80</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>45</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>34</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>40</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>40</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>35</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/heavy-strike">Heavy Strike</a></td></tr>
-          <tr><td>5</td><td><a href="/skills/draining-bite">Draining Bite</a><br/><span class="skill-desc">User heals for 30% max Health.</span></td></tr>
-          <tr><td>18</td><td><a href="/skills/nasty-explosion">Nasty Explosion</a></td></tr>
-          <tr><td>32</td><td><a href="/skills/rotten-essence">Rotten Essence</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/heavystrike">HeavyStrike</a></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/drainingbite">DrainingBite</a><br/><span class="skill-desc">User heals for 30% max Health.</span></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/nastyexplosion">NastyExplosion</a></td></tr>
+          <tr><td>32</td><td><a href="/mechanics/skills/rottenessence">RottenEssence</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/corpse-mend"><strong>Corpse Mend</strong></a></br> Recovers 8% Health after attacking.</p>
+      <p class="passive-block"><a href="/mechanics/passives/corpsemend"><strong>Corpse Mend</strong></a><br/> Recovers 8% Health after attacking.</p>
     </div>
   </div>
   <div class="monster-drops">
@@ -57,7 +50,7 @@ tags: [nature, strike, tier1]
   <div class="monster-recipe">
     <h3>Summoning Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/necromancy-circle" class="recipe-room">Necromancy Circle</a>
+      <a href="/rooms/circle-of-necromancy" class="recipe-room">Circle Of Necromancy</a>
       <span class="recipe-work">10 Work Power</span>
     </div>
     <table>

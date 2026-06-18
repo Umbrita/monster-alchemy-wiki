@@ -18,36 +18,37 @@ tags: [fire, projectile, tier1]
     It covers its eyes so it can look at the sun all day. They say it can see from it's orb.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>50</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>40</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>28</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>50</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>54</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>42</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>50</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>40</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>28</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>50</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>54</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>42</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/arcane-spark">Arcane Spark</a></td></tr>
-          <tr><td>5</td><td><a href="/skills/scorch-blast">Scorch Blast</a><br/><span class="skill-desc">Inflicts 2 <img id="Burn"/> Burn.</span></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/arcanespark">ArcaneSpark</a></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/scorchblast">ScorchBlast</a><br/><span class="skill-desc">Inflicts 2 <img id="Burn"/> Burn.</span></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/solar-blessing"><strong>Solar Blessing</strong></a></br> At day, gain 1 <img id="Charge"/> Charge at battle start.</p>
+      <p class="passive-block"><a href="/mechanics/passives/solarblessing"><strong>Solar Blessing</strong></a><br/> At day, gain 1 <img id="Charge"/> Charge at battle start.</p>
     </div>
   </div>
+  <div class="monster-drops">
+    <h3>Drops</h3>
+    <table>
+      <thead><tr><th>Rarity</th><th>Item</th></tr></thead>
+      <tbody>
 
+      </tbody>
+    </table>
+  </div>
   <div class="monster-recipe">
     <h3>Summoning Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/summoning-circle" class="recipe-room">Summoning Circle</a>
+      <a href="/rooms/circle-of-summoning" class="recipe-room">Circle Of Summoning</a>
       <span class="recipe-work">30 Work Power</span>
     </div>
     <table>

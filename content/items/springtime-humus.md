@@ -10,12 +10,11 @@ tags: [item]
       <span class="item-desc">Powerful fertilizer that stimulates cell growth. Smells like flowers.</span>
     </div>
   </div>
-
   <div class="item-recipe">
     <h3>Craft Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/fermentator" class="recipe-room">Fermentator</a>
-      <span class="recipe-work">⚡ 50 Work Power</span>
+      <a href="/rooms/fermentator" class="recipe-room">Fermentator</a>
+      <span class="recipe-work">50 Work Power</span>
     </div>
     <table>
       <thead><tr><th>Ingredient</th><th>Amount</th></tr></thead>

@@ -10,7 +10,7 @@ tags: [neutral, projectile, tier1]
   <div class="monster-image-wrap">
     <img src="/assets/Portraits/P_GoblinFisher.PNG" alt="Goblin Harpooner" class="monster-img" />
     <div class="monster-types">
-      <a href="/tags/neutral" class="type-badge"><img src="/assets/icons/T_EType_Normal.PNG" alt="Neutral" class="type-icon" /></a>
+      <a href="/tags/neutral" class="type-badge"><img src="/assets/icons/T_EType_Neutral.PNG" alt="Neutral" class="type-icon" /></a>
       <a href="/tags/projectile" class="type-badge"><img src="/assets/icons/T_AType_Projectile.PNG" alt="Projectile" class="type-icon" /></a>
     </div>
   </div>
@@ -18,29 +18,22 @@ tags: [neutral, projectile, tier1]
     They became so obsessed with the sea that they turned blue.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>30</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>50</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>28</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>25</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>54</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>52</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>30</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>50</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>28</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>25</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>54</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>52</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/precise-shot">Precise Shot</a><br/><span class="skill-desc">This skill can target any enemy.</span></td></tr>
-          <tr><td>5</td><td><a href="/skills/sharp-claw">Sharp Claw</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/preciseshot">PreciseShot</a><br/><span class="skill-desc">This skill can target any enemy.</span></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/sharpclaw">SharpClaw</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/current-catcher"><strong>Current Catcher</strong></a></br> Chance to obtain Hydrogland after battle.</p>
+      <p class="passive-block"><a href="/mechanics/passives/currentcatcher"><strong>Current Catcher</strong></a><br/> Chance to obtain Hydrogland after battle.</p>
     </div>
   </div>
   <div class="monster-drops">
@@ -56,7 +49,7 @@ tags: [neutral, projectile, tier1]
   <div class="monster-recipe">
     <h3>Summoning Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/summoning-circle" class="recipe-room">Summoning Circle</a>
+      <a href="/rooms/circle-of-summoning" class="recipe-room">Circle Of Summoning</a>
       <span class="recipe-work">30 Work Power</span>
     </div>
     <table>

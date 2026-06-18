@@ -10,7 +10,7 @@ tags: [neutral, strike, tier1]
   <div class="monster-image-wrap">
     <img src="/assets/Portraits/P_Slime.PNG" alt="Slime" class="monster-img" />
     <div class="monster-types">
-      <a href="/tags/neutral" class="type-badge"><img src="/assets/icons/T_EType_Normal.PNG" alt="Neutral" class="type-icon" /></a>
+      <a href="/tags/neutral" class="type-badge"><img src="/assets/icons/T_EType_Neutral.PNG" alt="Neutral" class="type-icon" /></a>
       <a href="/tags/strike" class="type-badge"><img src="/assets/icons/T_AType_Strike.PNG" alt="Strike" class="type-icon" /></a>
     </div>
   </div>
@@ -18,31 +18,24 @@ tags: [neutral, strike, tier1]
     They are all over the Continent. Highly mutable.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>40</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>40</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>30</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>40</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>50</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>40</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>40</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>40</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>30</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>40</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>50</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>40</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/sticky-strike">Sticky Strike</a><br/><span class="skill-desc">Inflicts 2 <img id="Slow"/> Slow.</span></td></tr>
-          <tr><td>5</td><td><a href="/skills/regeneration">Regeneration</a><br/><span class="skill-desc">Restores 50% max Health.</span></td></tr>
-          <tr><td>18</td><td><a href="/skills/acid-rain">Acid Rain</a></td></tr>
-          <tr><td>32</td><td><a href="/skills/sacred-waters">Sacred Waters</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/stickystrike">StickyStrike</a><br/><span class="skill-desc">Inflicts 2 <img id="Slow"/> Slow.</span></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/regeneration">Regeneration</a><br/><span class="skill-desc">Restores 50% max Health.</span></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/acidrain">AcidRain</a></td></tr>
+          <tr><td>32</td><td><a href="/mechanics/skills/sacredwaters">SacredWaters</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/slimy-texture"><strong>Slimy Texture</strong></a></br> When inflicted by <img id="Shock"/> Shock, gain 1 <img id="Regeneration"/> Regeneration instead.</p>
+      <p class="passive-block"><a href="/mechanics/passives/slimytexture"><strong>Slimy Texture</strong></a><br/> When inflicted by <img id="Shock"/> Shock, gain 1 <img id="Regeneration"/> Regeneration instead.</p>
     </div>
   </div>
   <div class="monster-drops">
@@ -57,7 +50,7 @@ tags: [neutral, strike, tier1]
   <div class="monster-recipe">
     <h3>Summoning Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/summoning-circle" class="recipe-room">Summoning Circle</a>
+      <a href="/rooms/circle-of-summoning" class="recipe-room">Circle Of Summoning</a>
       <span class="recipe-work">10 Work Power</span>
     </div>
     <table>

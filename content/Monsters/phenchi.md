@@ -18,31 +18,32 @@ tags: [fire, slash, tier1]
     The eggshell is very hard and it uses it as protection.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>54</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>50</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>50</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>50</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>50</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>45</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>54</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>50</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>50</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>50</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>50</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>45</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/sharp-claw">Sharp Claw</a></td></tr>
-          <tr><td>5</td><td><a href="/skills/blazing-slash">Blazing Slash</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/sharpclaw">SharpClaw</a></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/blazingslash">BlazingSlash</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/from-ashes"><strong>From Ashes</strong></a></br> After death, revive with 100 <img id="Burn"/> Burn once.</p>
+      <p class="passive-block"><a href="/mechanics/passives/fromashes"><strong>From Ashes</strong></a><br/> After death, revive with 100 <img id="Burn"/> Burn once.</p>
     </div>
   </div>
+  <div class="monster-drops">
+    <h3>Drops</h3>
+    <table>
+      <thead><tr><th>Rarity</th><th>Item</th></tr></thead>
+      <tbody>
 
+      </tbody>
+    </table>
+  </div>
 
 </div>

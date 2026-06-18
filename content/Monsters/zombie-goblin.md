@@ -18,30 +18,23 @@ tags: [nature, slash, tier1]
     Life after death didn't suppress its need to ambush adventurers.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>50</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>50</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>40</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>50</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>40</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>40</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>50</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>50</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>40</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>50</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>40</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>40</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/heavy-strike">Heavy Strike</a></td></tr>
-          <tr><td>5</td><td><a href="/skills/poison-touch">Poison Touch</a><br/><span class="skill-desc">Inflicts 3 <img id="Poison"/> Poison.</span></td></tr>
-          <tr><td>18</td><td><a href="/skills/vile-smash">Vile Smash</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/heavystrike">HeavyStrike</a></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/poisontouch">PoisonTouch</a><br/><span class="skill-desc">Inflicts 3 <img id="Poison"/> Poison.</span></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/vilesmash">VileSmash</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/burglar"><strong>Burglar</strong></a></br> 25% chance to double coin rewards after battle.</p>
+      <p class="passive-block"><a href="/mechanics/passives/burglar"><strong>Burglar</strong></a><br/> 25% chance to double coin rewards after battle.</p>
     </div>
   </div>
   <div class="monster-drops">
@@ -56,7 +49,7 @@ tags: [nature, slash, tier1]
   <div class="monster-recipe">
     <h3>Summoning Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/necromancy-circle" class="recipe-room">Necromancy Circle</a>
+      <a href="/rooms/circle-of-necromancy" class="recipe-room">Circle Of Necromancy</a>
       <span class="recipe-work">10 Work Power</span>
     </div>
     <table>

@@ -10,14 +10,5 @@ tags: [item]
       <span class="item-desc">Rare mineral that happens to resemble a fruit. For some reason it contains stored energy.</span>
     </div>
   </div>
-  <div class="item-drops">
-    <h3>Dropped By</h3>
-    <table>
-      <thead><tr><th>Rarity</th><th>Monster</th></tr></thead>
-      <tbody>
-        <tr><td>Epic</td><td><a href="/monsters/stick-golem">Stick Golem</a></td></tr>
-      </tbody>
-    </table>
-  </div>
 
 </div>

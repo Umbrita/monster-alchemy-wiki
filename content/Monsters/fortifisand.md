@@ -18,31 +18,32 @@ tags: [nature, strike, tier1]
     It is surprisingly resilient despite being made of sand.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>75</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>35</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>70</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>35</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>40</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>35</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>75</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>35</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>70</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>35</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>40</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>35</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/wave-rush">Wave Rush</a></td></tr>
-          <tr><td>5</td><td><a href="/skills/mud-ball">Mud Ball</a><br/><span class="skill-desc">Inflicts 1 <img id="Slow"/> Slow.</span></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/waverush">WaveRush</a></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/mudball">MudBall</a><br/><span class="skill-desc">Inflicts 1 <img id="Slow"/> Slow.</span></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/sea-guardian"><strong>Sea Guardian</strong></a></br> Gain 1 <img id="Barrier"/> Barrier for each <img id="Water"/> monster in your team at battle start.</p>
+      <p class="passive-block"><a href="/mechanics/passives/seaguardian"><strong>Sea Guardian</strong></a><br/> Gain 1 <img id="Barrier"/> Barrier for each <img id="Water"/> monster in your team at battle start.</p>
     </div>
   </div>
+  <div class="monster-drops">
+    <h3>Drops</h3>
+    <table>
+      <thead><tr><th>Rarity</th><th>Item</th></tr></thead>
+      <tbody>
 
+      </tbody>
+    </table>
+  </div>
 
 </div>

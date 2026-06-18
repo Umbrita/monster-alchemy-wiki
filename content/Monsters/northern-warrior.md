@@ -18,30 +18,23 @@ tags: [water, slash, tier1]
     There is no creature prouder that can live in the snow.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>55</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>45</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>51</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>40</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>40</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>49</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>55</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>45</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>51</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>40</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>40</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>49</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/pressure-slash">Pressure Slash</a></td></tr>
-          <tr><td>5</td><td><a href="/skills/clean-cut">Clean Cut</a></td></tr>
-          <tr><td>18</td><td><a href="/skills/bubble-shield">Bubble Shield</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/pressureslash">PressureSlash</a></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/cleancut">CleanCut</a></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/bubbleshield">BubbleShield</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/boreal-spirit"><strong>Boreal Spirit</strong></a></br> When inflicted by <img id="Freeze"/> Freeze, gain 5 <img id="Rage"/> Rage.</p>
+      <p class="passive-block"><a href="/mechanics/passives/borealspirit"><strong>Boreal Spirit</strong></a><br/> When inflicted by <img id="Freeze"/> Freeze, gain 5 <img id="Rage"/> Rage.</p>
     </div>
   </div>
   <div class="monster-drops">

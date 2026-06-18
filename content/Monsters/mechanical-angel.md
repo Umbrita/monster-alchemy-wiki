@@ -18,20 +18,13 @@ tags: [energy, projectile, tier2]
     The fuel they use is divine faith. Their existence is proof that their god exists and that is enough for them to function.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>50</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>50</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>35</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>90</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>65</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>65</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>50</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>50</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>35</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>90</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>65</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>65</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
 
         </tbody>
@@ -39,9 +32,17 @@ tags: [energy, projectile, tier2]
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/"><strong>—</strong></a></br> </p>
+      <p class="no-passive">—</p>
     </div>
   </div>
+  <div class="monster-drops">
+    <h3>Drops</h3>
+    <table>
+      <thead><tr><th>Rarity</th><th>Item</th></tr></thead>
+      <tbody>
 
+      </tbody>
+    </table>
+  </div>
 
 </div>

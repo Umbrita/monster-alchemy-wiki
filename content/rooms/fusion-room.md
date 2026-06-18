@@ -9,15 +9,13 @@ tags: [room]
       <span class="room-name">Fusion Room</span>
     </div>
   </div>
-
   <div class="room-desc">
     <p>The Fusion Room is an advanced facility where two monsters are merged into a single, more powerful being. Fusion combinations unlock unique creatures not found elsewhere.</p>
   </div>
-
   <div class="room-build">
     <h3>Build Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/room" class="recipe-room">Room Manager</a>
+      <a href="/rooms/room-manager" class="recipe-room">Room Manager</a>
       <span class="recipe-work">10 Work Power</span>
     </div>
     <table>

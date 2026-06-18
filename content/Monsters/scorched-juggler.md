@@ -18,31 +18,32 @@ tags: [fire, projectile, tier1]
     It can't stop juggling because the balls burn its hands.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>54</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>60</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>35</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>45</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>45</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>60</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>54</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>60</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>35</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>45</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>45</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>60</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/pyroclast">Pyroclast</a></td></tr>
-          <tr><td>5</td><td><a href="/skills/boulder-throw">Boulder Throw</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/pyroclast">Pyroclast</a></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/boulderthrow">BoulderThrow</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/hot-potato"><strong>Hot Potato</strong></a></br> After using a <img id="Shoot"/> attack, inflict 2 <img id="Burn"/> Burn to the target.</p>
+      <p class="passive-block"><a href="/mechanics/passives/hotpotato"><strong>Hot Potato</strong></a><br/> After using a <img id="Shoot"/> attack, inflict 2 <img id="Burn"/> Burn to the target.</p>
     </div>
   </div>
+  <div class="monster-drops">
+    <h3>Drops</h3>
+    <table>
+      <thead><tr><th>Rarity</th><th>Item</th></tr></thead>
+      <tbody>
 
+      </tbody>
+    </table>
+  </div>
 
 </div>

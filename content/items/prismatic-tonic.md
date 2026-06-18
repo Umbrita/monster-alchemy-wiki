@@ -10,20 +10,11 @@ tags: [item]
       <span class="item-desc">Energizing tonic that contains all the colors of the rainbow.</span>
     </div>
   </div>
-  <div class="item-drops">
-    <h3>Dropped By</h3>
-    <table>
-      <thead><tr><th>Rarity</th><th>Monster</th></tr></thead>
-      <tbody>
-        <tr><td>Epic</td><td><a href="/monsters/yellow-slime">Yellow Slime</a></td></tr>
-      </tbody>
-    </table>
-  </div>
   <div class="item-recipe">
     <h3>Craft Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/cauldron" class="recipe-room">Cauldron</a>
-      <span class="recipe-work">⚡ 50 Work Power</span>
+      <a href="/rooms/the-cauldron" class="recipe-room">The Cauldron</a>
+      <span class="recipe-work">50 Work Power</span>
     </div>
     <table>
       <thead><tr><th>Ingredient</th><th>Amount</th></tr></thead>

@@ -18,30 +18,23 @@ tags: [fire, strike, tier1]
     When the stones on its body rub together it creates sparks with which it lights sticks on fire.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>60</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>38</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>55</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>30</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>40</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>38</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>60</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>38</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>55</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>30</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>40</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>38</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/boulder-throw">Boulder Throw</a></td></tr>
-          <tr><td>5</td><td><a href="/skills/pyroclast">Pyroclast</a></td></tr>
-          <tr><td>18</td><td><a href="/skills/rock-avalanche">Rock Avalanche</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/boulderthrow">BoulderThrow</a></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/pyroclast">Pyroclast</a></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/rockavalanche">RockAvalanche</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/stick-afficionado"><strong>StickAfficionado</strong></a></br> Obtain Wood after battle.</p>
+      <p class="passive-block"><a href="/mechanics/passives/stickafficionado"><strong>StickAfficionado</strong></a><br/> Obtain Wood after battle.</p>
     </div>
   </div>
   <div class="monster-drops">

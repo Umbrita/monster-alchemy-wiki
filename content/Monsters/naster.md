@@ -18,31 +18,32 @@ tags: [water, projectile, tier1]
     It likes humid and toxic areas. It feeds on grime.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>65</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>30</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>40</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>65</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>65</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>35</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>65</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>30</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>40</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>65</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>65</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>35</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/poison-touch">Poison Touch</a><br/><span class="skill-desc">Inflicts 3 <img id="Poison"/> Poison.</span></td></tr>
-          <tr><td>5</td><td><a href="/skills/bubble-blast">Bubble Blast</a><br/><span class="skill-desc">This skill can target any enemy.</span></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/poisontouch">PoisonTouch</a><br/><span class="skill-desc">Inflicts 3 <img id="Poison"/> Poison.</span></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/bubbleblast">BubbleBlast</a><br/><span class="skill-desc">This skill can target any enemy.</span></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/gaseous"><strong>Gaseous</strong></a></br> When inflicted by <img id="Poison"/> Poison, gain 1 <img id="Regeneration"/> Regeneration instead.</p>
+      <p class="passive-block"><a href="/mechanics/passives/gaseous"><strong>Gaseous</strong></a><br/> When inflicted by <img id="Poison"/> Poison, gain 1 <img id="Regeneration"/> Regeneration instead.</p>
     </div>
   </div>
+  <div class="monster-drops">
+    <h3>Drops</h3>
+    <table>
+      <thead><tr><th>Rarity</th><th>Item</th></tr></thead>
+      <tbody>
 
+      </tbody>
+    </table>
+  </div>
 
 </div>

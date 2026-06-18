@@ -18,30 +18,23 @@ tags: [water, slash, tier1]
     It tries to bite and bury bones, but its body phases through them since it is a ghost.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>40</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>35</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>30</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>55</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>45</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>65</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>40</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>35</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>30</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>55</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>45</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>65</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/debilitating-bite">Debilitating Bite</a><br/><span class="skill-desc">Inflicts 2 <img id="Weak"/> Weak.</span></td></tr>
-          <tr><td>5</td><td><a href="/skills/cold-wind">Cold Wind</a></td></tr>
-          <tr><td>18</td><td><a href="/skills/paranormal-blessing">Paranormal Blessing</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/debilitatingbite">DebilitatingBite</a><br/><span class="skill-desc">Inflicts 2 <img id="Weak"/> Weak.</span></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/coldwind">ColdWind</a></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/paranormalblessing">ParanormalBlessing</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/pack-hunting"><strong>Pack Hunting</strong></a></br> At battle start, gain 3 <img id="Ambush"/> Ambush for each other monster in your team with "Pack Hunting". Chance to obtain Bone after battle.</p>
+      <p class="passive-block"><a href="/mechanics/passives/packhunting"><strong>Pack Hunting</strong></a><br/> At battle start, gain 3 <img id="Ambush"/> Ambush for each other monster in your team with "Pack Hunting". Chance to obtain Bone after battle.</p>
     </div>
   </div>
   <div class="monster-drops">
@@ -56,7 +49,7 @@ tags: [water, slash, tier1]
   <div class="monster-recipe">
     <h3>Summoning Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/necromancy-circle" class="recipe-room">Necromancy Circle</a>
+      <a href="/rooms/circle-of-necromancy" class="recipe-room">Circle Of Necromancy</a>
       <span class="recipe-work">10 Work Power</span>
     </div>
     <table>

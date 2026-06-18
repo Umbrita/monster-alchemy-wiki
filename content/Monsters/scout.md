@@ -10,7 +10,7 @@ tags: [neutral, projectile, tier1]
   <div class="monster-image-wrap">
     <img src="/assets/Portraits/P_Scout.PNG" alt="Scout" class="monster-img" />
     <div class="monster-types">
-      <a href="/tags/neutral" class="type-badge"><img src="/assets/icons/T_EType_Normal.PNG" alt="Neutral" class="type-icon" /></a>
+      <a href="/tags/neutral" class="type-badge"><img src="/assets/icons/T_EType_Neutral.PNG" alt="Neutral" class="type-icon" /></a>
       <a href="/tags/projectile" class="type-badge"><img src="/assets/icons/T_AType_Projectile.PNG" alt="Projectile" class="type-icon" /></a>
     </div>
   </div>
@@ -18,30 +18,23 @@ tags: [neutral, projectile, tier1]
     It is said that it never reveals its face; it is assumed to be some kind of goblin.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>40</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>52</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>30</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>40</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>35</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>45</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>40</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>52</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>30</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>40</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>35</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>45</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/precise-shot">Precise Shot</a><br/><span class="skill-desc">This skill can target any enemy.</span></td></tr>
-          <tr><td>5</td><td><a href="/skills/thorn-shot">Thorn Shot</a></td></tr>
-          <tr><td>18</td><td><a href="/skills/stinger-cannon">Stinger Cannon</a><br/><span class="skill-desc">Inflicts 1 <img id="Poison"/> Poison.</span></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/preciseshot">PreciseShot</a><br/><span class="skill-desc">This skill can target any enemy.</span></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/thornshot">ThornShot</a></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/stingercannon">StingerCannon</a><br/><span class="skill-desc">Inflicts 1 <img id="Poison"/> Poison.</span></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/sharpshooter"><strong>Sharpshooter</strong></a></br> 20% critical chance against backline enemies.</p>
+      <p class="passive-block"><a href="/mechanics/passives/sharpshooter"><strong>Sharpshooter</strong></a><br/> 20% critical chance against backline enemies.</p>
     </div>
   </div>
   <div class="monster-drops">
@@ -57,7 +50,7 @@ tags: [neutral, projectile, tier1]
   <div class="monster-recipe">
     <h3>Summoning Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/summoning-circle" class="recipe-room">Summoning Circle</a>
+      <a href="/rooms/circle-of-summoning" class="recipe-room">Circle Of Summoning</a>
       <span class="recipe-work">10 Work Power</span>
     </div>
     <table>

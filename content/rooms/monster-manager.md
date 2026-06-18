@@ -9,15 +9,13 @@ tags: [room]
       <span class="room-name">Monster Manager</span>
     </div>
   </div>
-
   <div class="room-desc">
-    <p>The Monster Manager is an administrative structure that expands your dungeon's monster capacity, allowing you to house and manage a larger army of creatures.</p>
+    <p>The Monster Manager is an administrative structure that expands your dungeon capacity, allowing you to house and manage a larger army of creatures.</p>
   </div>
-
   <div class="room-build">
     <h3>Build Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/room" class="recipe-room">Room Manager</a>
+      <a href="/rooms/room-manager" class="recipe-room">Room Manager</a>
       <span class="recipe-work">30 Work Power</span>
     </div>
     <table>

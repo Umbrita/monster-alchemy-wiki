@@ -18,32 +18,33 @@ tags: [fire, strike, tier2]
     The angrier it gets the stronger it burns. But it usually forgets why it is angry.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>65</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>70</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>45</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>70</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>50</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>55</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>65</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>70</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>45</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>70</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>50</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>55</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/scorch-blast">Scorch Blast</a><br/><span class="skill-desc">Inflicts 2 <img id="Burn"/> Burn.</span></td></tr>
-          <tr><td>8</td><td><a href="/skills/heat-wave">Heat Wave</a></td></tr>
-          <tr><td>18</td><td><a href="/skills/scorch-blast">Scorch Blast</a><br/><span class="skill-desc">Inflicts 2 <img id="Burn"/> Burn.</span></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/scorchblast">ScorchBlast</a><br/><span class="skill-desc">Inflicts 2 <img id="Burn"/> Burn.</span></td></tr>
+          <tr><td>8</td><td><a href="/mechanics/skills/heatwave">HeatWave</a></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/scorchblast">ScorchBlast</a><br/><span class="skill-desc">Inflicts 2 <img id="Burn"/> Burn.</span></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/hellish-precision"><strong>Hellish Precision</strong></a></br> 25% critical chance against enemies with <img id="Burn"/> Burn.</p>
+      <p class="passive-block"><a href="/mechanics/passives/hellishprecision"><strong>Hellish Precision</strong></a><br/> 25% critical chance against enemies with <img id="Burn"/> Burn.</p>
     </div>
   </div>
+  <div class="monster-drops">
+    <h3>Drops</h3>
+    <table>
+      <thead><tr><th>Rarity</th><th>Item</th></tr></thead>
+      <tbody>
 
+      </tbody>
+    </table>
+  </div>
 
 </div>

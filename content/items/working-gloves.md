@@ -10,12 +10,11 @@ tags: [item]
       <span class="item-desc">5+ work</span>
     </div>
   </div>
-
   <div class="item-recipe">
     <h3>Craft Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/" class="recipe-room">—</a>
-      <span class="recipe-work">⚡ 40 Work Power</span>
+      <a href="/rooms/" class="recipe-room"></a>
+      <span class="recipe-work">40 Work Power</span>
     </div>
     <table>
       <thead><tr><th>Ingredient</th><th>Amount</th></tr></thead>

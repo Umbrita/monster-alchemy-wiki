@@ -18,32 +18,33 @@ tags: [water, slash, tier2]
     Legend has it that a sailor Akaw cursed it one full moon night.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>80</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>75</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>55</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>40</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>45</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>55</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>80</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>75</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>55</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>40</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>45</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>55</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/debilitating-bite">Debilitating Bite</a><br/><span class="skill-desc">Inflicts 2 <img id="Weak"/> Weak.</span></td></tr>
-          <tr><td>8</td><td><a href="/skills/boreal-gale">Boreal Gale</a></td></tr>
-          <tr><td>18</td><td><a href="/skills/steam-impact">Steam Impact</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/debilitatingbite">DebilitatingBite</a><br/><span class="skill-desc">Inflicts 2 <img id="Weak"/> Weak.</span></td></tr>
+          <tr><td>8</td><td><a href="/mechanics/skills/borealgale">BorealGale</a></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/steamimpact">SteamImpact</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/high-tide"><strong>High Tide</strong></a></br> At night, gain 5 <img id="Rage"/> Rage when using <img id="Water"/> skills.</p>
+      <p class="passive-block"><a href="/mechanics/passives/hightide"><strong>High Tide</strong></a><br/> At night, gain 5 <img id="Rage"/> Rage when using <img id="Water"/> skills.</p>
     </div>
   </div>
+  <div class="monster-drops">
+    <h3>Drops</h3>
+    <table>
+      <thead><tr><th>Rarity</th><th>Item</th></tr></thead>
+      <tbody>
 
+      </tbody>
+    </table>
+  </div>
 
 </div>

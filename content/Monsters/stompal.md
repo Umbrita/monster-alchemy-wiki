@@ -18,30 +18,23 @@ tags: [water, strike, tier1]
     They live alongside Merkids. They stomp very loudly.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>60</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>55</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>45</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>30</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>35</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>42</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>60</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>55</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>45</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>30</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>35</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>42</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/heavy-strike">Heavy Strike</a></td></tr>
-          <tr><td>5</td><td><a href="/skills/rock-avalanche">Rock Avalanche</a></td></tr>
-          <tr><td>18</td><td><a href="/skills/water-slide">Water Slide</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/heavystrike">HeavyStrike</a></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/rockavalanche">RockAvalanche</a></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/waterslide">WaterSlide</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/sea-guardian"><strong>Sea Guardian</strong></a></br> Gain 1 <img id="Barrier"/> Barrier for each <img id="Water"/> monster in your team at battle start.</p>
+      <p class="passive-block"><a href="/mechanics/passives/seaguardian"><strong>Sea Guardian</strong></a><br/> Gain 1 <img id="Barrier"/> Barrier for each <img id="Water"/> monster in your team at battle start.</p>
     </div>
   </div>
   <div class="monster-drops">
@@ -57,7 +50,7 @@ tags: [water, strike, tier1]
   <div class="monster-recipe">
     <h3>Summoning Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/summoning-circle" class="recipe-room">Summoning Circle</a>
+      <a href="/rooms/circle-of-summoning" class="recipe-room">Circle Of Summoning</a>
       <span class="recipe-work">40 Work Power</span>
     </div>
     <table>

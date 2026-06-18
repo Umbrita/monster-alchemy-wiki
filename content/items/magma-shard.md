@@ -10,21 +10,11 @@ tags: [item]
       <span class="item-desc">Strange mineral that emits heat. It can form naturally under extreme conditions.</span>
     </div>
   </div>
-  <div class="item-drops">
-    <h3>Dropped By</h3>
-    <table>
-      <thead><tr><th>Rarity</th><th>Monster</th></tr></thead>
-      <tbody>
-        <tr><td>Rare</td><td><a href="/monsters/dragonling">Dragonling</a></td></tr>
-        <tr><td>Epic</td><td><a href="/monsters/flint-golem">Flint Golem</a></td></tr>
-      </tbody>
-    </table>
-  </div>
   <div class="item-recipe">
     <h3>Craft Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/furnace" class="recipe-room">Furnace</a>
-      <span class="recipe-work">⚡ 10 Work Power</span>
+      <a href="/rooms/furnace" class="recipe-room">Furnace</a>
+      <span class="recipe-work">10 Work Power</span>
     </div>
     <table>
       <thead><tr><th>Ingredient</th><th>Amount</th></tr></thead>

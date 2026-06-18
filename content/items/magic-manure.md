@@ -7,15 +7,14 @@ tags: [item]
     <img src="/assets/items/t_magicmanure.PNG" alt="Magic Manure" class="item-icon-large" />
     <div class="item-header-text">
       <span class="item-name">Magic Manure</span>
-      <span class="item-desc">—</span>
+      <span class="item-desc"></span>
     </div>
   </div>
-
   <div class="item-recipe">
     <h3>Craft Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/fermentator" class="recipe-room">Fermentator</a>
-      <span class="recipe-work">⚡ 10 Work Power</span>
+      <a href="/rooms/fermentator" class="recipe-room">Fermentator</a>
+      <span class="recipe-work">10 Work Power</span>
     </div>
     <table>
       <thead><tr><th>Ingredient</th><th>Amount</th></tr></thead>

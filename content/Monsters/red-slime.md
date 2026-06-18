@@ -18,30 +18,23 @@ tags: [fire, strike, tier1]
     It is permanently lit; it doesn't go out even while sleeping.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>50</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>40</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>30</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>50</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>50</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>40</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>50</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>40</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>30</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>50</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>50</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>40</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/sticky-strike">Sticky Strike</a><br/><span class="skill-desc">Inflicts 2 <img id="Slow"/> Slow.</span></td></tr>
-          <tr><td>5</td><td><a href="/skills/scorch-blast">Scorch Blast</a><br/><span class="skill-desc">Inflicts 2 <img id="Burn"/> Burn.</span></td></tr>
-          <tr><td>18</td><td><a href="/skills/heat-wave">Heat Wave</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/stickystrike">StickyStrike</a><br/><span class="skill-desc">Inflicts 2 <img id="Slow"/> Slow.</span></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/scorchblast">ScorchBlast</a><br/><span class="skill-desc">Inflicts 2 <img id="Burn"/> Burn.</span></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/heatwave">HeatWave</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/slimy-texture"><strong>Slimy Texture</strong></a></br> When inflicted by <img id="Shock"/> Shock, gain 1 <img id="Regeneration"/> Regeneration instead.</p>
+      <p class="passive-block"><a href="/mechanics/passives/slimytexture"><strong>Slimy Texture</strong></a><br/> When inflicted by <img id="Shock"/> Shock, gain 1 <img id="Regeneration"/> Regeneration instead.</p>
     </div>
   </div>
   <div class="monster-drops">

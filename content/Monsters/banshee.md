@@ -18,30 +18,23 @@ tags: [water, projectile, tier1]
     You can tell if a Banshee is nearby because it gets colder.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>35</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>35</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>30</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>50</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>85</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>40</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>35</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>35</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>30</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>50</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>85</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>40</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/arcane-spark">Arcane Spark</a></td></tr>
-          <tr><td>5</td><td><a href="/skills/cold-wind">Cold Wind</a></td></tr>
-          <tr><td>18</td><td><a href="/skills/acid-rain">Acid Rain</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/arcanespark">ArcaneSpark</a></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/coldwind">ColdWind</a></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/acidrain">AcidRain</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/chilly-aura"><strong>Chilly Aura</strong></a></br> When hit by an attack, inflict 1 <img id="Freeze"/> Freeze to the attacker.</p>
+      <p class="passive-block"><a href="/mechanics/passives/chillyaura"><strong>Chilly Aura</strong></a><br/> When hit by an attack, inflict 1 <img id="Freeze"/> Freeze to the attacker.</p>
     </div>
   </div>
   <div class="monster-drops">
@@ -56,7 +49,7 @@ tags: [water, projectile, tier1]
   <div class="monster-recipe">
     <h3>Summoning Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/necromancy-circle" class="recipe-room">Necromancy Circle</a>
+      <a href="/rooms/circle-of-necromancy" class="recipe-room">Circle Of Necromancy</a>
       <span class="recipe-work">10 Work Power</span>
     </div>
     <table>

@@ -18,30 +18,23 @@ tags: [fire, projectile, tier1]
     The resentment inside turned into heat. Now it is more peaceful.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>35</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>35</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>30</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>45</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>85</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>45</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>35</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>35</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>30</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>45</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>85</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>45</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/arcane-spark">Arcane Spark</a></td></tr>
-          <tr><td>5</td><td><a href="/skills/heat-wave">Heat Wave</a></td></tr>
-          <tr><td>18</td><td><a href="/skills/fire-blast">Fire Blast</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/arcanespark">ArcaneSpark</a></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/heatwave">HeatWave</a></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/fireblast">FireBlast</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/molten-body"><strong>Molten Body</strong></a></br> When hit by an attack, inflict 2 <img id="Burn"/> Burn to the attacker.</p>
+      <p class="passive-block"><a href="/mechanics/passives/moltenbody"><strong>Molten Body</strong></a><br/> When hit by an attack, inflict 2 <img id="Burn"/> Burn to the attacker.</p>
     </div>
   </div>
   <div class="monster-drops">
@@ -56,7 +49,7 @@ tags: [fire, projectile, tier1]
   <div class="monster-recipe">
     <h3>Summoning Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/necromancy-circle" class="recipe-room">Necromancy Circle</a>
+      <a href="/rooms/circle-of-necromancy" class="recipe-room">Circle Of Necromancy</a>
       <span class="recipe-work">10 Work Power</span>
     </div>
     <table>

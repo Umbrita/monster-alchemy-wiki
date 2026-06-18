@@ -18,30 +18,23 @@ tags: [fire, strike, tier1]
     They tend to go out at night to cause trouble. They have fun playing pranks.
   </div>
   <div class="monster-stats-row">
-    <div class="stat-pill stat-hp"><span>HP</span><strong>36</strong></div>
-    <div class="stat-pill stat-str"><span>STR</span><strong>39</strong></div>
-    <div class="stat-pill stat-def"><span>DEF</span><strong>35</strong></div>
-    <div class="stat-pill stat-mnd"><span>MND</span><strong>48</strong></div>
-    <div class="stat-pill stat-soul"><span>SOUL</span><strong>50</strong></div>
-    <div class="stat-pill stat-agi"><span>AGI</span><strong>55</strong></div>
+    <div class="stat-pill stat-hp"><span>HP</span><strong>36</strong></div> <div class="stat-pill stat-str"><span>STR</span><strong>39</strong></div> <div class="stat-pill stat-def"><span>DEF</span><strong>35</strong></div> <div class="stat-pill stat-mnd"><span>MND</span><strong>48</strong></div> <div class="stat-pill stat-soul"><span>SOUL</span><strong>50</strong></div> <div class="stat-pill stat-agi"><span>AGI</span><strong>55</strong></div>
   </div>
   <div class="monster-skills-section">
     <div class="skills-active">
       <h3>Active Skills</h3>
       <table>
-        <thead>
-          <tr><th>Level</th><th>Skill</th></tr>
-        </thead>
+        <thead><tr><th>Level</th><th>Skill</th></tr></thead>
         <tbody>
-          <tr><td>Base</td><td><a href="/skills/pyroclast">Pyroclast</a></td></tr>
-          <tr><td>5</td><td><a href="/skills/hex">Hex</a><br/><span class="skill-desc">Inflicts 2 <img id="Weak"/> Weak.</span></td></tr>
-          <tr><td>18</td><td><a href="/skills/heat-wave">Heat Wave</a></td></tr>
+          <tr><td>Base</td><td><a href="/mechanics/skills/pyroclast">Pyroclast</a></td></tr>
+          <tr><td>5</td><td><a href="/mechanics/skills/hex">Hex</a><br/><span class="skill-desc">Inflicts 2 <img id="Weak"/> Weak.</span></td></tr>
+          <tr><td>18</td><td><a href="/mechanics/skills/heatwave">HeatWave</a></td></tr>
         </tbody>
       </table>
     </div>
     <div class="skills-passive">
       <h3>Passive</h3>
-      <p class="passive-block"><a href="/passives/mischievous"><strong>Mischievous</strong></a></br> Gain 1 <img id="Charge"/> Charge when using a non damaging skill.</p>
+      <p class="passive-block"><a href="/mechanics/passives/mischievous"><strong>Mischievous</strong></a><br/> Gain 1 <img id="Charge"/> Charge when using a non damaging skill.</p>
     </div>
   </div>
   <div class="monster-drops">
@@ -56,7 +49,7 @@ tags: [fire, strike, tier1]
   <div class="monster-recipe">
     <h3>Summoning Recipe</h3>
     <div class="recipe-meta">
-      <a href="/mechanics/rooms/summoning-circle" class="recipe-room">Summoning Circle</a>
+      <a href="/rooms/circle-of-summoning" class="recipe-room">Circle Of Summoning</a>
       <span class="recipe-work">20 Work Power</span>
     </div>
     <table>
