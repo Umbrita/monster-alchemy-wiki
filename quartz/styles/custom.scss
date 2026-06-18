@@ -68,3 +68,147 @@
     background-position: left center;
   }
 }
+
+.monster-card {
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  overflow: hidden;
+  margin-top: 1rem;
+}
+.monster-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.6rem 1rem;
+  background: var(--lightgray);
+  .monster-name {
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--dark);
+  }
+  .monster-tier {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--gray);
+  }
+}
+.monster-image-wrap {
+  position: relative;
+  background: var(--light);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1.5rem;
+  min-height: 200px;
+  .monster-img {
+    max-height: 180px;
+    width: auto;
+    object-fit: contain;
+  }
+  .monster-types {
+    position: absolute;
+    bottom: 0.5rem;
+    right: 0.5rem;
+    display: flex;
+    gap: 0.3rem;
+  }
+}
+.type-badge {
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  background: var(--lightgray);
+  color: var(--gray);
+  letter-spacing: 0.05em;
+}
+.monster-desc {
+  padding: 0.75rem 1rem;
+  font-size: 0.9rem;
+  color: var(--darkgray);
+  border-top: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--lightgray);
+  font-style: italic;
+}
+.monster-stats-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--lightgray);
+}
+.stat-pill {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: var(--lightgray);
+  border-radius: 6px;
+  padding: 0.4rem 0.75rem;
+  flex: 1;
+  min-width: 50px;
+  span {
+    font-size: 0.65rem;
+    font-weight: 700;
+    color: var(--gray);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  strong {
+    font-size: 1.1rem;
+    color: var(--dark);
+  }
+}
+.monster-skills-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  border-bottom: 1px solid var(--lightgray);
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+  h3 {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--gray);
+    margin-bottom: 0.5rem;
+  }
+}
+.skills-active {
+  padding: 0.75rem 1rem;
+  border-right: 1px solid var(--lightgray);
+  @media (max-width: 600px) {
+    border-right: none;
+    border-bottom: 1px solid var(--lightgray);
+  }
+  table {
+    font-size: 0.82rem;
+    width: 100%;
+  }
+}
+.skills-passive {
+  padding: 0.75rem 1rem;
+}
+.passive-block {
+  background: var(--lightgray);
+  border-radius: 6px;
+  padding: 0.75rem;
+  font-size: 0.85rem;
+  color: var(--darkgray);
+  margin: 0;
+}
+.monster-drops {
+  padding: 0.75rem 1rem;
+  h3 {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--gray);
+    margin-bottom: 0.5rem;
+  }
+  table {
+    font-size: 0.85rem;
+    width: 100%;
+  }
+}
