@@ -62,16 +62,9 @@
     display: block;
     width: clamp(160px, 80%, 255px);
     aspect-ratio: 255 / 156;
-    background-image: url("/static/LogoWhite.png");        // local
+    background-image: url("https://umbrita.github.io/monster-alchemy-wiki/static/LogoWhite.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: left center;
-  }
-}
-
-// producción (GitHub Pages)
-@media screen {
-  :root[data-base-path="/monster-alchemy-wiki"] .page-title a::before {
-    background-image: url("/monster-alchemy-wiki/static/LogoWhite.png");
   }
 }
