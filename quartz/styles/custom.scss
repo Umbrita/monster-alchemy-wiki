@@ -114,14 +114,15 @@
   }
 }
 .type-badge {
-  font-size: 0.7rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  padding: 0.2rem 0.5rem;
-  border-radius: 4px;
-  background: var(--lightgray);
-  color: var(--gray);
-  letter-spacing: 0.05em;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none !important;
+
+  .type-icon {
+    width: 32px;
+    height: 32px;
+    object-fit: contain;
+  }
 }
 .monster-desc {
   padding: 0.75rem 1rem;
@@ -142,7 +143,6 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background: var(--lightgray);
   border-radius: 6px;
   padding: 0.4rem 0.75rem;
   flex: 1;
@@ -150,15 +150,23 @@
   span {
     font-size: 0.65rem;
     font-weight: 700;
-    color: var(--gray);
     text-transform: uppercase;
     letter-spacing: 0.05em;
+    opacity: 0.75;
   }
   strong {
     font-size: 1.1rem;
-    color: var(--dark);
+    font-weight: 700;
   }
 }
+
+.stat-hp    { background: rgba(176, 48,  48,  0.12); color: #c04040; }
+.stat-str   { background: rgba(176, 90,  32,  0.12); color: #b06030; }
+.stat-def   { background: rgba(42,  79,  176, 0.12); color: #4a6fc0; }
+.stat-mnd   { background: rgba(106, 48,  176, 0.12); color: #8a50c0; }
+.stat-soul  { background: rgba(154, 122, 16,  0.12); color: #a08020; }
+.stat-agi   { background: rgba(32,  122, 64,  0.12); color: #308050; }
+
 .monster-skills-section {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -210,5 +218,25 @@
   table {
     font-size: 0.85rem;
     width: 100%;
+  }
+  td {
+    vertical-align: middle;
+  }
+
+  a {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    gap: 0.4rem;
+  }
+}
+
+.monster-tier {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--gray);
+  text-decoration: none;
+  &:hover {
+    color: var(--dark);
   }
 }
