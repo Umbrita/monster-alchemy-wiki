@@ -1,2 +1,70 @@
 @use "./variables.scss" as *;
-@use "themes";
+
+.wiki-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+
+  @media (max-width: 480px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.wiki-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 1.5rem 1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: var(--lightgray);
+  text-decoration: none !important;
+  color: var(--dark);
+  transition: all 0.15s ease;
+  min-height: 150px;
+  justify-content: center;
+  gap: 0.25rem;
+
+  &:hover {
+    border-color: var(--gray);
+    background: var(--light);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+
+  .wiki-card-icon {
+    font-size: 2rem;
+    margin-bottom: 0.25rem;
+    opacity: 0.85;
+  }
+
+    .wiki-card-title {
+    font-weight: 600;
+    font-size: 1.2rem;    
+    color: var(--dark);
+    letter-spacing: 0.01em;
+    }
+
+    .wiki-card-desc {
+    font-size: 0.95rem;   
+    color: var(--gray);
+    margin-top: 0.1rem;
+    }
+}
+
+.page-title a {
+  font-size: 0;
+
+  &::before {
+    content: "";
+    display: block;
+    width: clamp(160px, 80%, 255px);
+    aspect-ratio: 255 / 156;  // mantiene proporciones del original
+    background-image: url("/static/LogoWhite.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left center;
+  }
+}
