@@ -88,23 +88,26 @@ $transition : 0.15s ease;
 
 // ─── Layout: Page Title Logo ──────────────────────────────────────────────────
 
-h2.page-title a {
-  font-size: 0 !important;
-  line-height: 0 !important;
-  display: block !important;
-  width: clamp(120px, 70%, 255px) !important;
-  height: 80px !important;
-  background: url("/monster-alchemy-wiki/static/LogoWhite.png") no-repeat left center / contain !important;
-  text-decoration: none !important;
-
-  &::before { display: none !important; }
-  &::after  { display: none !important; }
-}
-
 h2.page-title {
   margin: 0 !important;
   padding: 0 !important;
   font-size: 0 !important;
+  line-height: 0 !important;
+}
+
+h2.page-title a {
+  font-size: 0 !important;
+  line-height: 0 !important;
+  display: block !important;
+  text-decoration: none !important;
+
+  &::before {
+    content: "" !important;
+    display: block !important;
+    width: clamp(120px, 70%, 255px);
+    height: 80px;
+    background: url("/monster-alchemy-wiki/static/LogoWhite.png") no-repeat left center / contain !important;
+  }
 }
 
 // ─── Shared: Stat Pills ───────────────────────────────────────────────────────
