@@ -7,6 +7,11 @@ Welcome to the official Monster Alchemy wiki — your complete guide to monsters
 ## Browse
 
 <div class="wiki-grid">
+  <a href="./characters/" class="wiki-card">
+    <span class="wiki-card-icon">🧙</span>
+    <span class="wiki-card-title">Characters</span>
+    <span class="wiki-card-desc">NPCs, allies and key figures of Aetheria</span>
+  </a>
   <a href="./items/" class="wiki-card">
     <span class="wiki-card-icon">⚗️</span>
     <span class="wiki-card-title">Items</span>
@@ -26,6 +31,11 @@ Welcome to the official Monster Alchemy wiki — your complete guide to monsters
     <span class="wiki-card-icon">🐉</span>
     <span class="wiki-card-title">Monsters</span>
     <span class="wiki-card-desc">All creatures and alchemy combinations</span>
+  </a>
+  <a href="./quests/" class="wiki-card">
+    <span class="wiki-card-icon">📜</span>
+    <span class="wiki-card-title">Quests</span>
+    <span class="wiki-card-desc">Story missions and side objectives</span>
   </a>
   <a href="./rooms/" class="wiki-card">
     <span class="wiki-card-icon">🏠</span>

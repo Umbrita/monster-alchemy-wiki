@@ -500,3 +500,162 @@ td * {
   td:nth-child(5),
   td:nth-child(6) { width: 25%; }
 }
+
+// ─── Character Card ───────────────────────────────────────────────────────────
+
+.character-card {
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  overflow: hidden;
+  margin-top: 1rem;
+}
+
+.character-header {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1.25rem 1rem;
+  background: var(--lightgray);
+
+  .character-img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    border-radius: 6px;
+    flex-shrink: 0;
+  }
+
+  .character-header-text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
+  .character-name {
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: var(--dark);
+  }
+
+  .character-role {
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: var(--darkgray);
+  }
+
+  .character-affiliation {
+    font-size: 0.82rem;
+    color: var(--gray);
+  }
+}
+
+.character-desc,
+.character-appearances {
+  padding: 0.75rem 1rem;
+  border-top: 1px solid var(--lightgray);
+
+  h3 {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--gray);
+    margin-bottom: 0.5rem;
+  }
+
+  p {
+    font-size: 0.9rem;
+    color: var(--darkgray);
+    margin-bottom: 0.5rem;
+
+    &:last-child { margin-bottom: 0; }
+  }
+
+  table {
+    font-size: 0.85rem;
+    width: 100%;
+  }
+}
+
+// ─── Quest Card ───────────────────────────────────────────────────────────────
+
+.quest-card {
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  overflow: hidden;
+  margin-top: 1rem;
+}
+
+.quest-header {
+  display: flex;
+  align-items: center;
+  padding: 0.6rem 1rem;
+  background: var(--lightgray);
+
+  .quest-name {
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--dark);
+    display: block;
+  }
+
+  .quest-type {
+    font-size: 0.82rem;
+    color: var(--gray);
+    font-weight: 600;
+  }
+}
+
+.quest-desc,
+.quest-rewards {
+  padding: 0.75rem 1rem;
+  border-top: 1px solid var(--lightgray);
+
+  h3 {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--gray);
+    margin-bottom: 0.5rem;
+  }
+
+  p {
+    font-size: 0.9rem;
+    color: var(--darkgray);
+  }
+
+  table { font-size: 0.85rem; width: 100%; }
+}
+
+.quest-meta {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border-top: 1px solid var(--lightgray);
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.quest-giver,
+.quest-requirements {
+  padding: 0.75rem 1rem;
+
+  h3 {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--gray);
+    margin-bottom: 0.5rem;
+  }
+
+  table { font-size: 0.85rem; width: 100%; }
+}
+
+.quest-giver {
+  border-right: 1px solid var(--lightgray);
+
+  @media (max-width: 600px) {
+    border-right: none;
+    border-bottom: 1px solid var(--lightgray);
+  }
+}
