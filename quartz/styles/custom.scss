@@ -486,3 +486,17 @@
 td * {
   vertical-align: middle;
 }
+
+.room-crafts-table {
+  th {
+    white-space: nowrap;
+  }
+
+  // Result + Work Power columnas fijas, los 4 ingredientes reparten el resto
+  td:nth-child(1), th:nth-child(1) { width: 160px; }
+  td:nth-child(2), th:nth-child(2) { width: 90px; text-align: center; }
+  td:nth-child(3),
+  td:nth-child(4),
+  td:nth-child(5),
+  td:nth-child(6) { width: 25%; }
+}

@@ -33,7 +33,6 @@ tags: [energy, slash, tier2]
           <tr><th>Level</th><th>Skill</th></tr>
         </thead>
         <tbody>
-
         </tbody>
       </table>
     </div>
