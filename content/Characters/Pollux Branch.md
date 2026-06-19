@@ -3,8 +3,7 @@ tags:
   - faction
   - order
 ---
-
-Siguen al dios del Líqudo Safa (dios Zanel)
+Siguen al dios del Líqudo [[Safa]] (dios Zanel)
 Creen que los Zanel son los elegidos
 Rechazan todo lo que no sea Zanel
 - Akaw

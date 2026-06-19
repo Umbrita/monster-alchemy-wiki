@@ -5,4 +5,10 @@ tags:
   - akaw
   - ladett-bandit
 ---
-[[Coliseum Of Solitude]]
+Echó al último líder del [[Coliseum Of Solitude]] y ahora nadie puede con él.
+
+Líder de [[Ladett Bandits]]
+
+
+
+

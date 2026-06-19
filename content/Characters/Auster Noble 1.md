@@ -4,3 +4,4 @@ tags:
   - zanel
   - character
 ---
+[[Noble]] al mando de [[Sythel]]

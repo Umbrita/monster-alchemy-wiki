@@ -4,3 +4,4 @@ tags:
   - zanel
   - character
 ---
+[[Noble]] con poder en [[Baquén]]

@@ -4,3 +4,5 @@ tags:
   - noble
   - zanel
 ---
+[[Noble]] leader of[[Aurol]]
+friend of [[Pollux Apostle]]
