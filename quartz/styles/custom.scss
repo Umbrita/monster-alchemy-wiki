@@ -647,3 +647,19 @@ details[open] .monster-tier-summary::before { transform: rotate(90deg); }
 svg polyline{
   display:none;
 }
+
+// ─── Page Listing: ocultar tags y nowrap en títulos ──────────────────────────
+
+.page-listing .section-li {
+  .tags {
+    display: none !important;
+  }
+
+  .desc h3 a {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    font-size: 18px;
+  }
+}
