@@ -104,8 +104,8 @@ h2.page-title a {
   &::before {
     content: "" !important;
     display: block !important;
-    width: clamp(120px, 70%, 255px);
-    height: 80px;
+    width: clamp(120px, 70%, 255px) !important;
+    height: 80px !important;
     background: url("/monster-alchemy-wiki/static/LogoWhite.png") no-repeat left center / contain !important;
   }
 }
