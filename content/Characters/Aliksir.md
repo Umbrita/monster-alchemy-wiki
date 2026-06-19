@@ -11,3 +11,5 @@ Hace creer a los demás [[Alchemist]] que ha desaparecido para que lo vayan a bu
 [[Albedo]] es enviado por [[zosimos]] a buscarlo. 
 Cuando le lleva el [[artifact]] a [[God's Lair]] lo libera.
 
+
+Cree que puede crear un mundo ideal dónde los más capaces mandan y tienen más ventajas, así la sociedad progresará más eficazmente y, a largo plazo, todo será mejor.
