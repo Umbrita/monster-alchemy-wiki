@@ -22,9 +22,8 @@
     }
 
     #map {
+      width: 100%;
       height: 900px;
-      width: 150%;
-      max-width: none;
     }
 
     .zone-link {
@@ -65,13 +64,23 @@
         }
       });
 
-      L.imageOverlay("map.png", bounds).addTo(map);
-
+      L.imageOverlay("map/esquemaMapa.png", bounds).addTo(map);
       map.setMaxBounds(bounds);
-      map.setView([1500, 2100], 0.5);
+      map.fitBounds(bounds, { animate: false });
+
+      setTimeout(() => {
+        map.setView([1500, 2100], 0.5, { animate: false });
+        map.invalidateSize(true);
+      }, 50);
 
       const markers = [
-        // Añade aquí tus markers reales
+        {
+          id: "ID_2a598a0adabb",
+          type: "Zone",
+          loc: [750.9474016201134, 2023.4568340968208],
+          link: "Southern Peninsula",
+          tooltip: "hover"
+        }
       ];
 
       const basePath =

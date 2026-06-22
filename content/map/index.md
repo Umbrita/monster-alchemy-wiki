@@ -7,6 +7,7 @@ title: Map
 <script>
   window.addEventListener("DOMContentLoaded", function () {
     const iframe = document.createElement("iframe");
+
     const isLocal =
       window.location.hostname === "localhost" ||
       window.location.hostname === "127.0.0.1";
@@ -16,9 +17,10 @@ title: Map
       : "/monster-alchemy-wiki/static/map-raw";
 
     iframe.width = "100%";
-    iframe.height = "550";
+    iframe.height = "900";
     iframe.style.border = "none";
     iframe.style.borderRadius = "8px";
+    iframe.style.display = "block";
     iframe.allowFullscreen = true;
     iframe.setAttribute("allow", "fullscreen");
 
