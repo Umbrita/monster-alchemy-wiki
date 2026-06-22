@@ -4,14 +4,8 @@
   <meta charset="utf-8" />
   <title>Monster Alchemy Map</title>
 
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-  />
-  <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/4.0.0/Control.FullScreen.css"
-  />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/4.0.0/Control.FullScreen.css" />
 
   <style>
     html, body {
@@ -26,6 +20,46 @@
       height: 900px;
     }
 
+    #filter-panel {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      z-index: 1000;
+      background: white;
+      padding: 10px 14px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      font-family: sans-serif;
+      font-size: 14px;
+      min-width: 160px;
+    }
+
+    #filter-panel strong {
+      margin-bottom: 2px;
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #555;
+    }
+
+    #filter-panel label {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+    }
+
+    #filter-panel .dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      display: inline-block;
+      flex-shrink: 0;
+    }
+
     .zone-link {
       color: #1a5fb4;
       text-decoration: none;
@@ -35,9 +69,21 @@
     .zone-link:hover {
       text-decoration: underline;
     }
+
+    /* Iconos de marker por tipo */
+    .marker-icon {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      border: 2px solid white;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.4);
+    }
   </style>
 </head>
 <body>
+  <div id="filter-panel">
+    <strong>Filtrar</strong>
+  </div>
   <div id="map"></div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -64,7 +110,7 @@
         }
       });
 
-      L.imageOverlay("map.png", bounds).addTo(map);
+      L.imageOverlay("map/esquemaMapa.png", bounds).addTo(map);
       map.setMaxBounds(bounds);
       map.fitBounds(bounds, { animate: false });
 
@@ -73,6 +119,18 @@
         map.invalidateSize(true);
       }, 50);
 
+      // ── Configuración de categorías ──────────────────────────────
+      // Cambia los colores o etiquetas aquí si quieres
+      const CATEGORIES = {
+        "Zone":             { label: "Zones",            color: "#3b82f6" }, // azul
+        "Town":             { label: "Towns",            color: "#22c55e" }, // verde
+        "Point of Interest":{ label: "Points of Interest", color: "#f59e0b" }, // amarillo
+        "Coliseum":         { label: "Coliseum",         color: "#ef4444" }, // rojo
+        "Dungeon":          { label: "Dungeon",          color: "#8b5cf6" }  // morado
+      };
+
+      // ── Markers ─────────────────────────────────────────────────
+      // Añade aquí todos tus markers con type: uno de los 5 de arriba
       const markers = [
         {
           id: "ID_2a598a0adabb",
@@ -81,8 +139,14 @@
           link: "Southern Peninsula",
           tooltip: "hover"
         }
+        // Ejemplo de otros tipos:
+        // { id: "ID_xxx", type: "Town",              loc: [1000, 1500], link: "Aurol",           tooltip: "hover" },
+        // { id: "ID_xxx", type: "Point of Interest", loc: [1200, 800],  link: "Dragon Mount",    tooltip: "hover" },
+        // { id: "ID_xxx", type: "Coliseum",          loc: [2000, 2500], link: "Pollux Fort",     tooltip: "hover" },
+        // { id: "ID_xxx", type: "Dungeon",           loc: [3000, 1000], link: "Restless Swamp",  tooltip: "hover" },
       ];
 
+      // ── basePath local vs producción ────────────────────────────
       const basePath =
         window.location.hostname === "localhost" ||
         window.location.hostname === "127.0.0.1"
@@ -93,12 +157,53 @@
         return name.trim().toLowerCase().replace(/\s+/g, "-");
       }
 
+      function makeIcon(color) {
+        return L.divIcon({
+          className: "",
+          html: `<div class="marker-icon" style="background:${color};"></div>`,
+          iconSize: [24, 24],
+          iconAnchor: [12, 12],
+          popupAnchor: [0, -14]
+        });
+      }
+
+      // ── Crear LayerGroups y checkboxes para las 5 categorías ────
+      const layers = {};
+
+      Object.entries(CATEGORIES).forEach(([type, cfg]) => {
+        layers[type] = L.layerGroup().addTo(map);
+
+        const label = document.createElement("label");
+        const cb = document.createElement("input");
+        cb.type = "checkbox";
+        cb.checked = true;
+        cb.setAttribute("data-layer", type);
+        cb.addEventListener("change", function () {
+          if (this.checked) {
+            layers[type].addTo(map);
+          } else {
+            layers[type].removeFrom(map);
+          }
+        });
+
+        const dot = document.createElement("span");
+        dot.className = "dot";
+        dot.style.background = cfg.color;
+
+        label.appendChild(cb);
+        label.appendChild(dot);
+        label.appendChild(document.createTextNode(" " + cfg.label));
+        document.getElementById("filter-panel").appendChild(label);
+      });
+
+      // ── Añadir markers al mapa ───────────────────────────────────
       markers.forEach(m => {
         const [x, y] = m.loc;
         const slug = toSlug(m.link);
         const pageUrl = basePath + "/locations/" + slug;
+        const cfg = CATEGORIES[m.type] || { color: "#888" };
 
-        const marker = L.marker([y, x]).addTo(map);
+        const marker = L.marker([y, x], { icon: makeIcon(cfg.color) });
 
         marker.bindPopup(`
           <strong>${m.link}</strong><br>
@@ -107,14 +212,16 @@
         `);
 
         if (m.tooltip === "hover") {
-          marker.bindTooltip(m.link, {
-            direction: "top"
-          });
+          marker.bindTooltip(m.link, { direction: "top" });
         }
 
         marker.on("click", function () {
           window.top.location.href = pageUrl;
         });
+
+        if (layers[m.type]) {
+          marker.addTo(layers[m.type]);
+        }
       });
     });
   </script>
