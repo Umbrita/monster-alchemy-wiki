@@ -132,19 +132,672 @@
       // ── Markers ─────────────────────────────────────────────────
       // Añade aquí todos tus markers con type: uno de los 5 de arriba
       const markers = [
-        {
-          id: "ID_2a598a0adabb",
-          type: "Zone",
-          loc: [750.9474016201134, 2023.4568340968208],
-          link: "Southern Peninsula",
-          tooltip: "hover"
-        }
-        // Ejemplo de otros tipos:
-        // { id: "ID_xxx", type: "Town",              loc: [1000, 1500], link: "Aurol",           tooltip: "hover" },
-        // { id: "ID_xxx", type: "Point of Interest", loc: [1200, 800],  link: "Dragon Mount",    tooltip: "hover" },
-        // { id: "ID_xxx", type: "Coliseum",          loc: [2000, 2500], link: "Pollux Fort",     tooltip: "hover" },
-        // { id: "ID_xxx", type: "Dungeon",           loc: [3000, 1000], link: "Restless Swamp",  tooltip: "hover" },
-      ];
+      {
+        id: "ID_a1b2c3d4e5f6",
+        type: "zone",
+        loc: [0, 0],
+        link: "Abandoned Ruins",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_f6e5d4c3b2a1",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Akaw Resistance Camp",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_1a2b3c4d5e6f",
+        type: "dungeon",
+        loc: [0, 0],
+        link: "Alma's Well",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_6f5e4d3c2b1a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Annularis Cathedra",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_7a8b9c0d1e2f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Annularis Haven",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_2f1e0d9c8b7a",
+        type: "town",
+        loc: [0, 0],
+        link: "Asmog",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_3a4b5c6d7e8f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Aurol's Prison",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_8f7e6d5c4b3a",
+        type: "town",
+        loc: [0, 0],
+        link: "Aurol",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_4a5b6c7d8e9f",
+        type: "town",
+        loc: [0, 0],
+        link: "Bal-ha-Village",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_9f8e7d6c5b4a",
+        type: "town",
+        loc: [0, 0],
+        link: "BaquÃ©n",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_5a6b7c8d9e0f",
+        type: "town",
+        loc: [0, 0],
+        link: "Behila Prima",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_0f9e8d7c6b5a",
+        type: "town",
+        loc: [0, 0],
+        link: "Behila Secunda",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_6a7b8c9d0e1f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Behila",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_1f0e9d8c7b6a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Broken Bridge",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_7a8b9c1d2e3f",
+        type: "dungeon",
+        loc: [0, 0],
+        link: "Castle Dungeons",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_3f2e1d9c8b7a",
+        type: "zone",
+        loc: [0, 0],
+        link: "Central Lake",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_8a9b0c1d2e3f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Chasm",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_3f2e1d0c9b8a",
+        type: "coliseum",
+        loc: [0, 0],
+        link: "Coliseum Of Blades",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_9a0b1c2d3e4f",
+        type: "coliseum",
+        loc: [0, 0],
+        link: "Coliseum Of Essence",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_4f3e2d1c0b9a",
+        type: "coliseum",
+        loc: [0, 0],
+        link: "Coliseum Of Heroes",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_0a1b2c3d4e5f",
+        type: "coliseum",
+        loc: [0, 0],
+        link: "Coliseum Of Phases",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_5f4e3d2c1b0a",
+        type: "coliseum",
+        loc: [0, 0],
+        link: "Coliseum Of Powder",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_1a2b3c4d5e6f",
+        type: "coliseum",
+        loc: [0, 0],
+        link: "Coliseum Of Solitude",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_6f5e4d3c2b1a",
+        type: "coliseum",
+        loc: [0, 0],
+        link: "Coliseum Of Vertigo",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_2a3b4c5d6e7f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Crazed Village",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_7f6e5d4c3b2a",
+        type: "dungeon",
+        loc: [0, 0],
+        link: "Curious Cavelet",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_3a4b5c6d7e8f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Dasht Plateau",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_8f7e6d5c4b3a",
+        type: "zone",
+        loc: [0, 0],
+        link: "Devil's Nail",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_4a5b6c7d8e9f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Dragon Mount",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_9f8e7d6c5b4a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Elemental Grove",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_5a6b7c8d9e0f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Eremos Passage",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_0f9e8d7c6b5a",
+        type: "zone",
+        loc: [0, 0],
+        link: "Etnem's Ring",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_6a7b8c9d0e1f",
+        type: "town",
+        loc: [0, 0],
+        link: "Forgotten Kingdom",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_1f0e9d8c7b6a",
+        type: "town",
+        loc: [0, 0],
+        link: "Ghost Village",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_7a8b9c0d1e2f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "God's Lair",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_2f1e0d9c8b7a",
+        type: "zone",
+        loc: [0, 0],
+        link: "Golden Archipielago",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_8a9b0c1d2e3f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Great Mother River",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_3f2e1d0c9b8a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Index Cathedra",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_9a0b1c2d3e4f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Index Monastery 2",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_4f3e2d1c0b9a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Index Monastery",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_0a1b2c3d4e5f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Index Shrine",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_5f4e3d2c1b0a",
+        type: "zone",
+        loc: [0, 0],
+        link: "Iol's Foot",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_1a2b3c4d5e6f",
+        type: "town",
+        loc: [0, 0],
+        link: "Iol's Heart",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_6f5e4d3c2b1a",
+        type: "zone",
+        loc: [0, 0],
+        link: "Iol's Peak",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_2a3b4c5d6e7f",
+        type: "town",
+        loc: [0, 0],
+        link: "Ladett",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_7f6e5d4c3b2a",
+        type: "town",
+        loc: [0, 0],
+        link: "Lan Village",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_3a4b5c6d7e8f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Lily Canyon",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_8f7e6d5c4b3a",
+        type: "zone",
+        loc: [0, 0],
+        link: "Marlo Forest",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_4a5b6c7d8e9f",
+        type: "town",
+        loc: [0, 0],
+        link: "Marlo Town",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_9f8e7d6c5b4a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Medius Cathedra",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_5a6b7c8d9e0f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Medius Gateway",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_0f9e8d7c6b5a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Medius Settlement",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_6a7b8c9d0e1f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Minimus Cathedra",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_1f0e9d8c7b6a",
+        type: "zone",
+        loc: [0, 0],
+        link: "Monster Kingdom",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_7a8b9c0d1e2f",
+        type: "dungeon",
+        loc: [0, 0],
+        link: "Mount Zoondar",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_2f1e0d9c8b7a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Ncan Market",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_8a9b0c1d2e3f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Ocean Fields",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_3f2e1d0c9b8a",
+        type: "town",
+        loc: [0, 0],
+        link: "Orange Village",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_9a0b1c2d3e4f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Order Bastion",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_4f3e2d1c0b9a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Order's Frontier",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_0a1b2c3d4e5f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Pale Route",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_5f4e3d2c1b0a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Pollux Fort",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_1a2b3c4d5e6f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Pollux Monastery",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_6f5e4d3c2b1a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Pollux Temple",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_2a3b4c5d6e7f",
+        type: "town",
+        loc: [0, 0],
+        link: "Pond Town",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_7f6e5d4c3b2a",
+        type: "zone",
+        loc: [0, 0],
+        link: "Puddle Meadows",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_3a4b5c6d7e8f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Restless Swamp",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_8f7e6d5c4b3a",
+        type: "zone",
+        loc: [0, 0],
+        link: "River Crossing",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_4a5b6c7d8e9f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Robbed Caravan",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_9f8e7d6c5b4a",
+        type: "zone",
+        loc: [0, 0],
+        link: "Safa's Passage",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_5a6b7c8d9e0f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Seaside Camp",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_0f9e8d7c6b5a",
+        type: "zone",
+        loc: [0, 0],
+        link: "Sehll",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_6a7b8c9d0e1f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Southern Peninsula",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_1f0e9d8c7b6a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Spiritual Retreat",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_7a8b9c0d1e2f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Sunburned Ruins",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_2f1e0d9c8b7a",
+        type: "zone",
+        loc: [0, 0],
+        link: "Sythel Outskirts",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_8a9b0c1d2e3f",
+        type: "town",
+        loc: [0, 0],
+        link: "Sythel",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_3f2e1d0c9b8a",
+        type: "town",
+        loc: [0, 0],
+        link: "Trela",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_9a0b1c2d3e4f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Trelan Quarry",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_4f3e2d1c0b9a",
+        type: "town",
+        loc: [0, 0],
+        link: "Tuhul",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_0a1b2c3d4e5f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Uncanny Valley",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_5f4e3d2c1b0a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Valle",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_1a2b3c4d5e6f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Volcanic Wastes",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_6f5e4d3c2b1a",
+        type: "town",
+        loc: [0, 0],
+        link: "Warm Village",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_2a3b4c5d6e7f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Watchtower",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_7f6e5d4c3b2a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Workshop",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_3a4b5c6d7e8f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Xantic Fields",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_8f7e6d5c4b3a",
+        type: "zone",
+        loc: [0, 0],
+        link: "Yan-Ga-La Jungle",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_4a5b6c7d8e9f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Zaaharian Desert",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_9f8e7d6c5b4a",
+        type: "town",
+        loc: [0, 0],
+        link: "Zaahi",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_5a6b7c8d9e0f",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Zanel Nursery",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_0f9e8d7c6b5a",
+        type: "town",
+        loc: [0, 0],
+        link: "Zenilia",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_6a7b8c9d0e1f",
+        type: "zone",
+        loc: [0, 0],
+        link: "Zerett Islet",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_1f0e9d8c7b6a",
+        type: "point-of-interest",
+        loc: [0, 0],
+        link: "Zosimos Temple",
+        tooltip: "hover"
+      },
+      {
+        id: "ID_7a8b9c0d1e2f",
+        type: "town",
+        loc: [0, 0],
+        link: "Zurrap",
+        tooltip: "hover"
+      }
+    ];
 
       // ── basePath local vs producción ────────────────────────────
       const basePath =
