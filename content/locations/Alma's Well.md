@@ -6,18 +6,10 @@ tags:
 ---
 [[Alma's Well]]
 ## Description
-
-## Story Events
-
-## Quests
-- Main Quests
-
-- Secondary Quests
-
+Dungeon en [[Pale Route]]
+Tiene que ser bastante dificil, como reto para quienes hayan terminado la EA
 ## Leads to 
 [[Pale Route]]
-
-## Relevant Characters
 
 ## Monsters
 - Spawns

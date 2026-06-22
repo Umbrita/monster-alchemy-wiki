@@ -24,6 +24,9 @@ Zona dónde estaba el reino antiguo de Vespera.
 [[Disastrous Navigator]]
 ## Monsters
 - Spawns
+	- [[zombie]]
+	- [[disturbing-silhouette]]
+	- [[baby-shadow]]
 
 - Guardian
 

@@ -1,6 +1,6 @@
 ```leaflet
 id: continent-map
-lock: true
+lock: false
 recenter: false
 noScrollZoom: false
 image: map/esquemaMapa.png
@@ -9,12 +9,11 @@ height: 900px
 width: 150%
 lat: 1500
 long: 2100
-minZoom: -2
+minZoom: -5
 maxZoom: 3
 defaultZoom: .5
 zoomDelta: .5
 unit: meters
 scale: 1
 darkMode: false
-marker: zone, 1500, 1500,[[Southern Peninsula]]
 ```

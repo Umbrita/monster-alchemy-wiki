@@ -8,7 +8,8 @@ tags:
   - cathedra
 ---
 ## Description
-
+Cathedra de [[Annularis Branch]]
+Cuando llegas está vacía y tienes acceso al [[Annularis Seal]].
 ## Story Events
 
 ## Quests

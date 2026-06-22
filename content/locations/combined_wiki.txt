@@ -1,0 +1,2838 @@
+---
+title: Abandoned Ruins
+tags:
+  - location
+  - zone
+---
+## Description
+Zona bastante abierta, el objetivo es poner bastantes recetas de necro y que la gente se entretenga en hacerlas.
+Hay más monstruos que dropean [[shadow-fragment]].
+
+## Story Events
+Zona dónde estaba el reino antiguo de Vespera.
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Forgotten Kingdom]]
+[[Ghost Village]]
+[[Uncanny Valley]]
+[[Restless Swamp]]
+## Relevant Characters
+[[Disastrous Navigator]]
+## Monsters
+- Spawns
+	- [[zombie]]
+	- [[disturbing-silhouette]]
+	- [[baby-shadow]]
+
+- Guardian
+
+## Loot
+- Recipes---
+tags:
+  - location
+  - zone
+---
+## Description
+Plano donde residen los [[Alchemist]]
+## Story Events
+El juego empieza aquí
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Southern Peninsula]]
+## Relevant Characters
+[[zosimos]]
+---
+title: Akaw Resistance Camp
+tags:
+  - location
+  - point-of-interest
+  - akaw
+---
+## Description
+Campamento dónde se encuentra la [[Akaw Resistance]]
+Hay algunos akaw normales y algunos [[Necromancer]]
+## Story Events
+No son ofensivos contra el jugados
+[[Akaw Resistance Spy]] vuelve aquí después de ser rescatado
+## Quests
+- Main Quests
+Rescatar a [[Akaw Resistance Spy]]
+- Secondary Quests
+
+## Leads to 
+[[Restless Swamp]]
+
+## Relevant Characters
+[[Akaw Resistance Spy]]
+---
+title: Alma's Well
+tags:
+  - location
+  - dungeon
+---
+[[Alma's Well]]
+## Description
+Dungeon en [[Pale Route]]
+Tiene que ser bastante dificil, como reto para quienes hayan terminado la EA
+## Leads to 
+[[Pale Route]]
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Annularis Cathedra
+tags:
+  - location
+  - point-of-interest
+  - order
+  - annularis-branch
+  - cathedra
+---
+## Description
+Cathedra de [[Annularis Branch]]
+Cuando llegas está vacía y tienes acceso al [[Annularis Seal]].
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Devil's Nail]]
+
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Annularis Haven
+tags:
+  - location
+  - point-of-interest
+  - order
+  - annularis-branch
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Zaaharian Desert]]
+
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Asmog
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Monster Kingdom]]
+## Relevant Characters
+[[Monster King]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Aurol's Prison
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Aurol]]
+
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Aurol
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Puddle Meadows]]
+[[Aurol's Prison]]
+[[Coliseum Of Heroes]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Bal-ha-Village
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[River Crossing]]
+
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Baquén
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Golden Archipelago]]
+[[Coliseum Of Powder]]
+[[Ncan Market]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Behila Prima
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Behila]]
+[[Coliseum Of Phases]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Behila Secunda
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Behila]]
+[[Order Bastion]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Behila
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Behila Prima]]
+[[Behila Secunda]]
+[[Sehll]]
+[[Valle]]
+## Relevant Characters
+[[Disastrous Navigator]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Broken Bridge
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Uncanny Valley]]
+[[Sythel Outskirts]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Castle Dungeons
+tags:
+  - location
+  - dungeon
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Sythel]]
+
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Central Lake
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Sythel Outskirts]]
+
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Chasm
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Dasht Plateau]]
+[[Uncanny Valley]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Coliseum Of Blades
+tags:
+  - location
+  - coliseum
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Marlo Town]]
+
+## Relevant Characters
+[[Sir Templed Steelo]]
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Coliseum Of Essence
+tags:
+  - location
+  - coliseum
+---
+
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Zenilia]]
+## Relevant Characters
+[[Shaman Prodigy]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Coliseum Of Heroes
+tags:
+  - location
+  - coliseum
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[aurol]]
+## Relevant Characters
+[[Magnus Polaris]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Coliseum Of Phases
+tags:
+  - location
+  - coliseum
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Behila Prima]]
+
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Coliseum Of Powder
+tags:
+  - location
+  - coliseum
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Baquén]]
+## Relevant Characters
+[[Sack Parrow]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Coliseum Of Solitude
+tags:
+  - location
+  - coliseum
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Ladett]]
+## Relevant Characters
+[[Bandit Leader]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Coliseum Of Vertigo
+tags:
+  - location
+  - coliseum
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Iol's Heart]]
+## Relevant Characters
+[[Zanel Iluminado]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Crazed Village
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Restless Swamp]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Curious Cavelet
+tags:
+  - location
+  - dungeon
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[River Crossing]]
+## Relevant Characters
+[[Coward Knight]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Dasht Plateau
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Pond Town]]
+[[Lan Village]]
+[[Dragon Mount]]
+[[Lily Canyon]]
+[[Chasm]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Devil's Nail
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Volcanic Wastes]]
+[[Annularis Cathedra]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Dragon Mount
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Dasht Plateau]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Elemental Grove
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Safa's Passage]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Eremos Passage
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Valle]]
+[[Etnem's Ring]]
+[[Medius Gateway]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Etnem's Ring
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Yan-Ga-La Jungle]]
+[[Eremos Passage]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Forgotten Kingdom
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Abandoned Ruins]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Ghost Village
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Uncanny Valley]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: God's Lair
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Sehll]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Golden Archipielago
+tags:
+  - location
+  - zone
+---
+## Description
+Pensar en una mecánica para las islas.
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Marlo Town]]
+[[Baquén]]
+[[Safa's Passage]]
+[[Mount Zoondar]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Great Mother River
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+---
+title: Index Cathedra
+tags:
+  - location
+  - point-of-interest
+  - order
+  - index-branch
+  - cathedra
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Iol's Peak]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Index Monastery 2
+tags:
+  - location
+  - point-of-interest
+  - index-branch
+  - order
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Trelan Quarry]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Index Monastery
+tags:
+  - location
+  - point-of-interest
+  - order
+  - index-branch
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Xantic Fields]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Index Shrine
+tags:
+  - location
+  - point-of-interest
+  - index-branch
+  - order
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Marlo Town]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Locations
+cssclasses:
+  - locations-archive
+  - monsters-archive
+---
+<details class="monster-tier-group">
+  <summary class="monster-tier-summary">Zones <span class="tier-count">30</span></summary>
+  <div class="wiki-index-grid">
+  <a href="/locations/abandoned ruins" class="wiki-index-card">
+    <span>Abandoned Ruins</span>
+  </a>
+  <a href="/locations/behila" class="wiki-index-card">
+    <span>Behila</span>
+  </a>
+  <a href="/locations/central lake" class="wiki-index-card">
+    <span>Central Lake</span>
+  </a>
+  <a href="/locations/chasm" class="wiki-index-card">
+    <span>Chasm</span>
+  </a>
+  <a href="/locations/dasht plateau" class="wiki-index-card">
+    <span>Dasht Plateau</span>
+  </a>
+  <a href="/locations/devil's nail" class="wiki-index-card">
+    <span>Devil's Nail</span>
+  </a>
+  <a href="/locations/eremos passage" class="wiki-index-card">
+    <span>Eremos Passage</span>
+  </a>
+  <a href="/locations/etnem's ring" class="wiki-index-card">
+    <span>Etnem's Ring</span>
+  </a>
+  <a href="/locations/golden archipelago" class="wiki-index-card">
+    <span>Golden Archipielago</span>
+  </a>
+  <a href="/locations/iol's foot" class="wiki-index-card">
+    <span>Iol's Foot</span>
+  </a>
+  <a href="/locations/iol's peak" class="wiki-index-card">
+    <span>Iol's Peak</span>
+  </a>
+  <a href="/locations/lily canyon" class="wiki-index-card">
+    <span>Lily Canyon</span>
+  </a>
+  <a href="/locations/marlo forest" class="wiki-index-card">
+    <span>Marlo Forest</span>
+  </a>
+  <a href="/locations/monster kingdom" class="wiki-index-card">
+    <span>Monster Kingdom</span>
+  </a>
+  <a href="/locations/ocean fields" class="wiki-index-card">
+    <span>Ocean Fields</span>
+  </a>
+  <a href="/locations/pale route" class="wiki-index-card">
+    <span>Pale Route</span>
+  </a>
+  <a href="/locations/puddle meadows" class="wiki-index-card">
+    <span>Puddle Meadows</span>
+  </a>
+  <a href="/locations/restless swamp" class="wiki-index-card">
+    <span>Restless Swamp</span>
+  </a>
+  <a href="/locations/river crossing" class="wiki-index-card">
+    <span>River Crossing</span>
+  </a>
+  <a href="/locations/safa's passage" class="wiki-index-card">
+    <span>Safa's Passage</span>
+  </a>
+  <a href="/locations/sehll" class="wiki-index-card">
+    <span>Sehll</span>
+  </a>
+  <a href="/locations/southern peninsula" class="wiki-index-card">
+    <span>Southern Peninsula</span>
+  </a>
+  <a href="/locations/sythel outskirts" class="wiki-index-card">
+    <span>Sythel Outskirts</span>
+  </a>
+  <a href="/locations/trelan quarry" class="wiki-index-card">
+    <span>Trelan Quarry</span>
+  </a>
+  <a href="/locations/uncanny valley" class="wiki-index-card">
+    <span>Uncanny Valley</span>
+  </a>
+  <a href="/locations/volcanic wastes" class="wiki-index-card">
+    <span>Volcanic Wastes</span>
+  </a>
+  <a href="/locations/xantic fields" class="wiki-index-card">
+    <span>Xantic Fields</span>
+  </a>
+  <a href="/locations/yan-ga-la jungle" class="wiki-index-card">
+    <span>Yan-Ga-La Jungle</span>
+  </a>
+  <a href="/locations/zaaharian desert" class="wiki-index-card">
+    <span>Zaaharian Desert</span>
+  </a>
+  <a href="/locations/zerett islet" class="wiki-index-card">
+    <span>Zerett Islet</span>
+  </a>
+  </div>
+</details>
+<details class="monster-tier-group">
+  <summary class="monster-tier-summary">Towns <span class="tier-count">21</span></summary>
+  <div class="wiki-index-grid">
+  <a href="/locations/asmog" class="wiki-index-card">
+    <span>Asmog</span>
+  </a>
+  <a href="/locations/aurol" class="wiki-index-card">
+    <span>Aurol</span>
+  </a>
+  <a href="/locations/bal-ha-village" class="wiki-index-card">
+    <span>Bal-ha-Village</span>
+  </a>
+  <a href="/locations/baquén" class="wiki-index-card">
+    <span>Baquén</span>
+  </a>
+  <a href="/locations/behila prima" class="wiki-index-card">
+    <span>Behila Prima</span>
+  </a>
+  <a href="/locations/behila secunda" class="wiki-index-card">
+    <span>Behila Secunda</span>
+  </a>
+  <a href="/locations/forgotten kingdom" class="wiki-index-card">
+    <span>Forgotten Kingdom</span>
+  </a>
+  <a href="/locations/ghost village" class="wiki-index-card">
+    <span>Ghost Village</span>
+  </a>
+  <a href="/locations/iol's heart" class="wiki-index-card">
+    <span>Iol's Heart</span>
+  </a>
+  <a href="/locations/ladett" class="wiki-index-card">
+    <span>Ladett</span>
+  </a>
+  <a href="/locations/lan village" class="wiki-index-card">
+    <span>Lan Village</span>
+  </a>
+  <a href="/locations/marlo town" class="wiki-index-card">
+    <span>Marlo Town</span>
+  </a>
+  <a href="/locations/orange village" class="wiki-index-card">
+    <span>Orange Village</span>
+  </a>
+  <a href="/locations/pond town" class="wiki-index-card">
+    <span>Pond Town</span>
+  </a>
+  <a href="/locations/sythel" class="wiki-index-card">
+    <span>Sythel</span>
+  </a>
+  <a href="/locations/trela" class="wiki-index-card">
+    <span>Trela</span>
+  </a>
+  <a href="/locations/tuhul" class="wiki-index-card">
+    <span>Tuhul</span>
+  </a>
+  <a href="/locations/warm village" class="wiki-index-card">
+    <span>Warm Village</span>
+  </a>
+  <a href="/locations/zaahi" class="wiki-index-card">
+    <span>Zaahi</span>
+  </a>
+  <a href="/locations/zenilia" class="wiki-index-card">
+    <span>Zenilia</span>
+  </a>
+  <a href="/locations/zurrap" class="wiki-index-card">
+    <span>Zurrap</span>
+  </a>
+  </div>
+</details>
+<details class="monster-tier-group">
+  <summary class="monster-tier-summary">Points of Interest <span class="tier-count">33</span></summary>
+  <div class="wiki-index-grid">
+  <a href="/locations/akaw resistance camp" class="wiki-index-card">
+    <span>Akaw Resistance Camp</span>
+  </a>
+  <a href="/locations/annularis cathedra" class="wiki-index-card">
+    <span>Annularis Cathedra</span>
+  </a>
+  <a href="/locations/annularis haven" class="wiki-index-card">
+    <span>Annularis Haven</span>
+  </a>
+  <a href="/locations/aurol's prison" class="wiki-index-card">
+    <span>Aurol's Prison</span>
+  </a>
+  <a href="/locations/broken bridge" class="wiki-index-card">
+    <span>Broken Bridge</span>
+  </a>
+  <a href="/locations/crazed village" class="wiki-index-card">
+    <span>Crazed Village</span>
+  </a>
+  <a href="/locations/dragon mount" class="wiki-index-card">
+    <span>Dragon Mount</span>
+  </a>
+  <a href="/locations/elemental grove" class="wiki-index-card">
+    <span>Elemental Grove</span>
+  </a>
+  <a href="/locations/god's lair" class="wiki-index-card">
+    <span>God's Lair</span>
+  </a>
+  <a href="/locations/great mother river" class="wiki-index-card">
+    <span>Great Mother River</span>
+  </a>
+  <a href="/locations/index cathedra" class="wiki-index-card">
+    <span>Index Cathedra</span>
+  </a>
+  <a href="/locations/index monastery 2" class="wiki-index-card">
+    <span>Index Monastery 2</span>
+  </a>
+  <a href="/locations/index monastery" class="wiki-index-card">
+    <span>Index Monastery</span>
+  </a>
+  <a href="/locations/index shrine" class="wiki-index-card">
+    <span>Index Shrine</span>
+  </a>
+  <a href="/locations/medius cathedra" class="wiki-index-card">
+    <span>Medius Cathedra</span>
+  </a>
+  <a href="/locations/medius gateway" class="wiki-index-card">
+    <span>Medius Gateway</span>
+  </a>
+  <a href="/locations/medius settlement" class="wiki-index-card">
+    <span>Medius Settlement</span>
+  </a>
+  <a href="/locations/minimus cathedra" class="wiki-index-card">
+    <span>Minimus Cathedra</span>
+  </a>
+  <a href="/locations/ncan market" class="wiki-index-card">
+    <span>Ncan Market</span>
+  </a>
+  <a href="/locations/order bastion" class="wiki-index-card">
+    <span>Order Bastion</span>
+  </a>
+  <a href="/locations/order's frontier" class="wiki-index-card">
+    <span>Order's Frontier</span>
+  </a>
+  <a href="/locations/pollux fort" class="wiki-index-card">
+    <span>Pollux Fort</span>
+  </a>
+  <a href="/locations/pollux monastery" class="wiki-index-card">
+    <span>Pollux Monastery</span>
+  </a>
+  <a href="/locations/pollux temple" class="wiki-index-card">
+    <span>Pollux Temple</span>
+  </a>
+  <a href="/locations/robbed caravan" class="wiki-index-card">
+    <span>Robbed Caravan</span>
+  </a>
+  <a href="/locations/seaside camp" class="wiki-index-card">
+    <span>Seaside Camp</span>
+  </a>
+  <a href="/locations/spiritual retreat" class="wiki-index-card">
+    <span>Spiritual Retreat</span>
+  </a>
+  <a href="/locations/sunburned ruins" class="wiki-index-card">
+    <span>Sunburned Ruins</span>
+  </a>
+  <a href="/locations/valle" class="wiki-index-card">
+    <span>Valle</span>
+  </a>
+  <a href="/locations/watchtower" class="wiki-index-card">
+    <span>Watchtower</span>
+  </a>
+  <a href="/locations/workshop" class="wiki-index-card">
+    <span>Workshop</span>
+  </a>
+  <a href="/locations/zanel nursery" class="wiki-index-card">
+    <span>Zanel Nursery</span>
+  </a>
+  <a href="/locations/zosimos temple" class="wiki-index-card">
+    <span>Zosimos Temple</span>
+  </a>
+  </div>
+</details>
+<details class="monster-tier-group">
+  <summary class="monster-tier-summary">Coliseums <span class="tier-count">7</span></summary>
+  <div class="wiki-index-grid">
+  <a href="/locations/coliseum of blades" class="wiki-index-card">
+    <span>Coliseum Of Blades</span>
+  </a>
+  <a href="/locations/coliseum of essence" class="wiki-index-card">
+    <span>Coliseum Of Essence</span>
+  </a>
+  <a href="/locations/coliseum of heroes" class="wiki-index-card">
+    <span>Coliseum Of Heroes</span>
+  </a>
+  <a href="/locations/coliseum of phases" class="wiki-index-card">
+    <span>Coliseum Of Phases</span>
+  </a>
+  <a href="/locations/coliseum of powder" class="wiki-index-card">
+    <span>Coliseum Of Powder</span>
+  </a>
+  <a href="/locations/coliseum of solitude" class="wiki-index-card">
+    <span>Coliseum Of Solitude</span>
+  </a>
+  <a href="/locations/coliseum of vertigo" class="wiki-index-card">
+    <span>Coliseum Of Vertigo</span>
+  </a>
+  </div>
+</details>
+<details class="monster-tier-group">
+  <summary class="monster-tier-summary">Dungeon <span class="tier-count">4</span></summary>
+  <div class="wiki-index-grid">
+  <a href="/locations/alma's well" class="wiki-index-card">
+    <span>Alma's Well</span>
+  </a>
+  <a href="/locations/castle dungeons" class="wiki-index-card">
+    <span>Castle Dungeons</span>
+  </a>
+  <a href="/locations/curious cavelet" class="wiki-index-card">
+    <span>Curious Cavelet</span>
+  </a>
+  <a href="/locations/mount zoondar" class="wiki-index-card">
+    <span>Mount Zoondar</span>
+  </a>
+  </div>
+</details>
+---
+title: Iol's Foot
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Ocean Fields]]
+[[Iol's Peak]]
+[[Iol's Heart]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Iol's Heart
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Iol's Foot]]
+[[Coliseum Of Vertigo]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Iol's Peak
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Iol's Foot]]
+[[Index Cathedra]]
+[[Zosimos Temple]]
+## Relevant Characters
+[[Disastrous Navigator]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Ladett
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Volcanic Wastes]]
+[[Coliseum Of Solitude]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Lan Village
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Dasht Plateau]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Lily Canyon
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Xantic Fields]]
+[[Dasht Plateau]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Marlo Forest
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[River Crossing]]
+[[Marlo Town]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Marlo Town
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Marlo Forest]]
+[[Xantic Fields]]
+[[Coliseum Of Blades]]
+[[Index Shrine]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Medius Cathedra
+tags:
+  - location
+  - point-of-interest
+  - order
+  - medius-branch
+  - cathedra
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Zerett Islet]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Medius Gateway
+tags:
+  - location
+  - point-of-interest
+  - medius-branch
+  - order
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Eremos Passage]]
+[[Valle]]
+## Relevant Characters
+[[Medius Apostle]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Medius Settlement
+tags:
+  - location
+  - point-of-interest
+  - medius-branch
+  - order
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Restless Swamp]]
+## Relevant Characters
+[[Medius Emissary]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Minimus Cathedra
+tags:
+  - location
+  - point-of-interest
+  - order
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Monster Kingdom]]
+## Relevant Characters
+[[Minimus Apostle]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Monster Kingdom
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Asmog]]
+[[Minimus Cathedra]]
+[[Restless Swamp]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Mount Zoondar
+tags:
+  - location
+  - dungeon
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Golden Archipelago]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Ncan Market
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Baquén]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Ocean Fields
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Trelan Quarry]]
+[[Iol's Foot]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Orange Village
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Safa's Passage]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Order Bastion
+tags:
+  - location
+  - point-of-interest
+  - order
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Behila Secunda]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Order's Frontier
+tags:
+  - location
+  - point-of-interest
+  - order
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Restless Swamp]]
+[[Monster Kingdom]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Pale Route
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Puddle Meadows]]
+[[Safa's Passage]]
+[[Zurrap]]
+[[Warm Village]]
+[[Alma's Well]]
+## Relevant Characters
+[[Disastrous Navigator]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Pollux Fort
+tags:
+  - location
+  - point-of-interest
+  - pollux-branch
+  - order
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Puddle Meadows]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Pollux Monastery
+tags:
+  - location
+  - point-of-interest
+  - order
+  - pollux-branch
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Safa's Passage]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Pollux Temple
+tags:
+  - location
+  - point-of-interest
+  - order
+  - pollux-branch
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Aurol]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Pond Town
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Dasht Plateau]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Puddle Meadows
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Aurol]]
+[[Pale Route]]
+[[Trelan Quarry]]
+[[Yan-Ga-La Jungle]]
+[[Zaaharian Desert]]
+[[Zanel Nursery]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Restless Swamp
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Zenilia]]
+[[Medius Settlement]]
+[[Spiritual Retreat]]
+[[Forgotten Kingdom]]
+[[Monster Kingdom]]
+[[Order's Frontier]]
+[[Akaw Resistance]]
+[[Crazed Village]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: River Crossing
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Southern Peninsula]]
+[[Marlo Forest]]
+[[Seaside Camp]]
+[[Curious Cavelet]]
+[[Bal-ha-Village]]
+## Relevant Characters
+[[Disastrous Navigator]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Robbed Caravan
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Zaaharian Desert]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Safa's Passage
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Golden Archipelago]]
+[[Sythel Outskirts]]
+[[Elemental Grove]]
+[[Orange Village]]
+[[Pale Route]]
+[[Pollux Monastery]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Seaside Camp
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to
+[[River Crossing]]
+
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Sehll
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[God's Lair]]
+[[Behila]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Southern Peninsula
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[River Crossing]]
+
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes
+---
+title: Spiritual Retreat
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Restless Swamp]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Sunburned Ruins
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Zaaharian Desert]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Sythel Outskirts
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Xantic Fields]]
+[[Safa's Passage]]
+[[Broken Bridge]]
+[[Watchtower]]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Sythel
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Sythel Outskirts]]
+[[Castle Dungeons]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+tags:
+  - location
+---
+Mundo dónde transcurre el juego.
+---
+title: Trela
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Trelan Quarry]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Trelan Quarry
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Puddle Meadows]]
+[[Ocean Fields]]
+[[Trela]]
+[[Index Monastery 2]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Tuhul
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Yan-Ga-La Jungle]]
+[[Etnem's Ring]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Uncanny Valley
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Ghost Village]]
+[[Broken Bridge]]
+[[Abandoned Ruins]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Valle
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Eremos Passage]]
+[[Behila]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Volcanic Wastes
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Zaaharian Desert]]
+[[Devil's Nail]]
+[[Ladett]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Warm Village
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Pale Route]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Watchtower
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Sythel Outskirts]]
+
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Workshop
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Zaahi]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Xantic Fields
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Marlo Forest]]
+[[Sythel Outskirts]]
+[[Lily Canyon]]
+[[Marlo Town]]
+[[Index Monastery]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Yan-Ga-La Jungle
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Puddle Meadows]]
+[[Etnem's Ring]]
+[[Tuhul]]
+[[Zerett Islet]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Zaaharian Desert
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Puddle Meadows]]
+[[Volcanic Wastes]]
+[[Zaahi]]
+[[Annularis Haven]]
+[[Robbed Caravan]]
+## Relevant Characters
+[[Disastrous Navigator]]
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Zaahi
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Zaaharian Desert]]
+[[Workshop]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Zanel Nursery
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Puddle Meadows]]
+
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Zenilia
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Restless Swamp]]
+[[Coliseum Of Essence]]
+
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Zerett Islet
+tags:
+  - location
+  - zone
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Yan-Ga-La Jungle]]
+[[Medius Cathedra]]
+
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Zosimos Temple
+tags:
+  - location
+  - point-of-interest
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Iol's Peak]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes---
+title: Zurrap
+tags:
+  - location
+  - town
+---
+## Description
+
+## Story Events
+
+## Quests
+- Main Quests
+
+- Secondary Quests
+
+## Leads to 
+[[Pale Route]]
+## Relevant Characters
+
+## Monsters
+- Spawns
+
+- Guardian
+
+## Loot
+- Recipes
