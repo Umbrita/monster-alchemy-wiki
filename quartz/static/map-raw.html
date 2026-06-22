@@ -75,7 +75,7 @@
       markers.forEach(m => {
         const [x, y] = m.loc;
         const slug = toSlug(m.link);
-        const pageUrl = slug + "/";
+        const pageUrl = "/monster-alchemy-wiki/locations/" + slug.toLowerCase();
 
         const marker = L.marker([y, x]).addTo(map);
 
