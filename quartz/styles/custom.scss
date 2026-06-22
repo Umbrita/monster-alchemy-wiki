@@ -663,3 +663,10 @@ svg polyline{
     font-size: 18px;
   }
 }
+
+.leaflet-map-container {
+  height: 520px;
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}

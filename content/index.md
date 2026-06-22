@@ -18,7 +18,7 @@ Welcome to the official Monster Alchemy wiki — your complete guide to monsters
     <span class="wiki-card-desc">Ingredients, equipment and materials</span>
   </a>
   <a href="./locations/" class="wiki-card">
-    <span class="wiki-card-icon">🗺️</span>
+    <span class="wiki-card-icon">🌍</span>
     <span class="wiki-card-title">Locations</span>
     <span class="wiki-card-desc">Areas and locations</span>
   </a>
@@ -41,5 +41,10 @@ Welcome to the official Monster Alchemy wiki — your complete guide to monsters
     <span class="wiki-card-icon">🏠</span>
     <span class="wiki-card-title">Rooms</span>
     <span class="wiki-card-desc">Alchemist tower rooms</span>
+  </a>
+    <a href="./map/" class="wiki-card">
+    <span class="wiki-card-icon">🗺️</span>
+    <span class="wiki-card-title">Interactive Map</span>
+    <span class="wiki-card-desc">Check all the interesting spots in Aetheria</span>
   </a>
 </div>

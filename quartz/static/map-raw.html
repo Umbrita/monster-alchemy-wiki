@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Monster Alchemy Map</title>
+
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/4.0.0/Control.FullScreen.css"
+  />
+
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+    #map {
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.fullscreen/4.0.0/Control.FullScreen.min.js"></script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const map = L.map("map", {
+        crs: L.CRS.Simple,
+        minZoom: -2,
+        maxZoom: 3,
+        fullscreenControl: true,
+        fullscreenControlOptions: {
+          position: "topleft"
+        }
+      });
+
+      const bounds = [[0, 0], [2048, 2048]];
+      L.imageOverlay("map.png", bounds).addTo(map);
+      map.fitBounds(bounds);
+
+      const markers = [
+        {
+          id: "ID_2a598a0adabb",
+          type: "Zone",
+          loc: [750.9474016201134, 2023.4568340968208],
+          link: "Southern Peninsula",
+          tooltip: "hover"
+        }
+      ];
+
+      markers.forEach(m => {
+        const [x, y] = m.loc; // tu JSON viene como [x, y]
+
+        const marker = L.marker([y, x]).addTo(map); // Leaflet usa [y, x] en CRS.Simple
+
+        marker.bindPopup(`
+          <strong>${m.link}</strong><br>
+          Tipo: ${m.type}
+        `);
+
+        if (m.tooltip === "hover") {
+          marker.bindTooltip(m.link, {
+            direction: "top"
+          });
+        }
+      });
+    });
+  </script>
+</body>
+</html>
