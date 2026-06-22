@@ -135,63 +135,63 @@
       {
         id: "ID_a1b2c3d4e5f6",
         type: "zone",
-        loc: [1735,1800],
+        loc: [1800,1735],
         link: "Abandoned Ruins",
         tooltip: "hover"
       },
       {
         id: "ID_f6e5d4c3b2a1",
         type: "point-of-interest",
-        loc: [1724,2087],
+        loc: [2087,1724],
         link: "Akaw Resistance Camp",
         tooltip: "hover"
       },
       {
         id: "ID_1a2b3c4d5e6f",
         type: "dungeon",
-        loc: [2900,1525],
+        loc: [1525,2900],
         link: "Alma's Well",
         tooltip: "hover"
       },
       {
         id: "ID_6f5e4d3c2b1a",
         type: "point-of-interest",
-        loc: [1872,3130],
+        loc: [3130,1872],
         link: "Annularis Cathedra",
         tooltip: "hover"
       },
       {
         id: "ID_7a8b9c0d1e2f",
         type: "point-of-interest",
-        loc: [1864,2377],
+        loc: [2377,1864],
         link: "Annularis Haven",
         tooltip: "hover"
       },
       {
         id: "ID_2f1e0d9c8b7a",
         type: "town",
-        loc: [0, 0],
+        loc: [2560, 1442],
         link: "Asmog",
         tooltip: "hover"
       },
       {
         id: "ID_3a4b5c6d7e8f",
         type: "point-of-interest",
-        loc: [0, 0],
+        loc: [2148, 2551],
         link: "Aurol's Prison",
         tooltip: "hover"
       },
       {
         id: "ID_8f7e6d5c4b3a",
         type: "town",
-        loc: [0, 0],
+        loc: [2179, 25588],
         link: "Aurol",
         tooltip: "hover"
       },
       {
         id: "ID_4a5b6c7d8e9f",
         type: "town",
-        loc: [0, 0],
+        loc: [857, 2035],
         link: "Bal-ha-Village",
         tooltip: "hover"
       },
@@ -199,7 +199,7 @@
         id: "ID_9f8e7d6c5b4a",
         type: "town",
         loc: [0, 0],
-        link: "BaquÃ©n",
+        link: "Baquén",
         tooltip: "hover"
       },
       {
@@ -856,7 +856,7 @@
         const pageUrl = basePath + "/locations/" + slug;
         const cfg = CATEGORIES[m.type] || { color: "#888" };
 
-        const marker = L.marker([y, x], { icon: makeIcon(cfg.color) });
+        const marker = L.marker([x, y], { icon: makeIcon(cfg.color) });
 
         marker.bindPopup(`
           <strong>${m.link}</strong><br>
