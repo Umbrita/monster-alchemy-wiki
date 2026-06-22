@@ -19,9 +19,20 @@
       padding: 0;
       height: 100%;
     }
+
     #map {
       height: 100%;
       width: 100%;
+    }
+
+    .zone-link {
+      color: #1a5fb4;
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    .zone-link:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
@@ -57,14 +68,21 @@
         }
       ];
 
-      markers.forEach(m => {
-        const [x, y] = m.loc; // tu JSON viene como [x, y]
+      function toSlug(name) {
+        return name.replace(/\s+/g, "-");
+      }
 
-        const marker = L.marker([y, x]).addTo(map); // Leaflet usa [y, x] en CRS.Simple
+      markers.forEach(m => {
+        const [x, y] = m.loc;
+        const slug = toSlug(m.link);
+        const pageUrl = slug + "/";
+
+        const marker = L.marker([y, x]).addTo(map);
 
         marker.bindPopup(`
           <strong>${m.link}</strong><br>
-          Tipo: ${m.type}
+          Tipo: ${m.type}<br>
+          <a class="zone-link" href="${pageUrl}" target="_top">Abrir página</a>
         `);
 
         if (m.tooltip === "hover") {
@@ -72,6 +90,10 @@
             direction: "top"
           });
         }
+
+        marker.on("click", function () {
+          window.top.location.href = pageUrl;
+        });
       });
     });
   </script>
