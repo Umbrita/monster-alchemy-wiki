@@ -18,11 +18,13 @@
       margin: 0;
       padding: 0;
       height: 100%;
+      overflow: hidden;
     }
 
     #map {
-      height: 100%;
-      width: 100%;
+      height: 900px;
+      width: 150%;
+      max-width: none;
     }
 
     .zone-link {
@@ -44,38 +46,48 @@
 
   <script>
     document.addEventListener("DOMContentLoaded", function () {
+      const bounds = [[0, 0], [4096, 4096]];
+
       const map = L.map("map", {
         crs: L.CRS.Simple,
         minZoom: -2,
         maxZoom: 3,
+        zoomDelta: 0.5,
+        zoomSnap: 0.5,
+        scrollWheelZoom: true,
+        doubleClickZoom: true,
+        boxZoom: true,
+        keyboard: true,
+        dragging: true,
         fullscreenControl: true,
         fullscreenControlOptions: {
           position: "topleft"
         }
       });
 
-      const bounds = [[0, 0], [2048, 2048]];
       L.imageOverlay("map.png", bounds).addTo(map);
-      map.fitBounds(bounds);
+
+      map.setMaxBounds(bounds);
+      map.setView([1500, 2100], 0.5);
 
       const markers = [
-        {
-          id: "ID_2a598a0adabb",
-          type: "Zone",
-          loc: [750.9474016201134, 2023.4568340968208],
-          link: "Southern Peninsula",
-          tooltip: "hover"
-        }
+        // Añade aquí tus markers reales
       ];
 
+      const basePath =
+        window.location.hostname === "localhost" ||
+        window.location.hostname === "127.0.0.1"
+          ? ""
+          : "/monster-alchemy-wiki";
+
       function toSlug(name) {
-        return name.replace(/\s+/g, "-");
+        return name.trim().toLowerCase().replace(/\s+/g, "-");
       }
 
       markers.forEach(m => {
         const [x, y] = m.loc;
         const slug = toSlug(m.link);
-        const pageUrl = "/monster-alchemy-wiki/locations/" + slug.toLowerCase();
+        const pageUrl = basePath + "/locations/" + slug;
 
         const marker = L.marker([y, x]).addTo(map);
 
