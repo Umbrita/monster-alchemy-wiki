@@ -10,7 +10,7 @@ tags: [room]
     </div>
   </div>
   <div class="room-desc">
-    <p>The Circle Of Summoning is a mystical structure that allows you to bring new monsters into existence using raw materials and alchemical reagents. Essential for building your dungeon roster.</p>
+    <p>The Circle Of Summoning is a mystical structure that allows you to bring new monsters into existence using raw materials and alchemical reagents. Essential for building your monster team.</p>
   </div>
 
   <div class="room-crafts">

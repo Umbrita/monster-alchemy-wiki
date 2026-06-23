@@ -5,9 +5,8 @@ tags:
   - point-of-interest
 ---
 ## Description
-
-## Story Events
-
+Mercado en baquén con varias tiendas pequeñas de recursos.
+Podría cambiar el precio dependiendo del día.
 ## Quests
 - Main Quests
 

@@ -7,7 +7,8 @@ tags:
 ## Description
 
 ## Story Events
-
+[[Coward Knight]] fins the player and asks them to clear the [[Curious Cavelet]].
+After clearing it, it grants the player access to the [[Seaside Camp]].
 ## Quests
 - Main Quests
 
@@ -21,10 +22,14 @@ tags:
 [[Bal-ha-Village]]
 ## Relevant Characters
 [[Disastrous Navigator]]
+[[Coward Knight]]
 ## Monsters
 - Spawns
-
+[[goblin-hexer]] [[goblin-pillager]] [[slime]] [[wiwo]] [[imp]] [[fungus-bufo]] [[merkid]] [[brachillo]]
 - Guardian
+[[ferrous-knuckle]]
 
 ## Loot
 - Recipes
+Resources: [[ember-gel]] [[marine-essence]] 
+Monsters: [[merkid]] [[wiwo]] [[twitchy-fluff]] 

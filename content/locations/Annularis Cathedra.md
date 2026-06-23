@@ -8,15 +8,11 @@ tags:
   - cathedra
 ---
 ## Description
-Cathedra de [[Annularis Branch]]
-Cuando llegas está vacía y tienes acceso al [[Annularis Seal]].
+Cathedra de [[Annularis Branch]].
+El reto debería ser pasarse la [[Devil's Nail]]
 ## Story Events
-
-## Quests
-- Main Quests
-
-- Secondary Quests
-
+Cuando llegas está vacía y tienes acceso al [[Annularis Seal]].
+Justo cuando interactúas te ataca [[Annularis Branch]] y tienes que ganar 3 combates seguidos.
 ## Leads to 
 [[Devil's Nail]]
 
@@ -28,4 +24,4 @@ Cuando llegas está vacía y tienes acceso al [[Annularis Seal]].
 - Guardian
 
 ## Loot
-- Recipes
+[[Annularis Seal]]

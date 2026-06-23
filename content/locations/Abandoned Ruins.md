@@ -9,7 +9,7 @@ Zona bastante abierta, el objetivo es poner bastantes recetas de necro y que la 
 Hay más monstruos que dropean [[shadow-fragment]].
 
 ## Story Events
-Zona dónde estaba el reino antiguo de Vespera.
+Zona dónde estaba el reino antiguo de [[Vespera]].
 ## Quests
 - Main Quests
 

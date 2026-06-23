@@ -1,12 +1,15 @@
 ---
-title: Golden Archipielago
+title: Golden Archipelago
 tags:
   - location
   - zone
 ---
 ## Description
-Pensar en una mecánica para las islas.
+Zona amplia con muchas islas, hay una zona mas plana y otra más de playas.
 ## Story Events
+El [[Coliseum Of Powder]] está vacío y solo te encuentras con un cartel con una riddle.
+Al descifrarla encuentras la localización de [[Sack Parrow]] en las islas.
+Hablas con él y te espera en el [[Coliseum Of Powder]].
 
 ## Quests
 - Main Quests
@@ -14,7 +17,7 @@ Pensar en una mecánica para las islas.
 - Secondary Quests
 
 ## Leads to 
-[[Marlo Town]]
+[[Xantic Fields]]
 [[Baquén]]
 [[Safa's Passage]]
 [[Mount Zoondar]]

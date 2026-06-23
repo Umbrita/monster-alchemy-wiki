@@ -5,6 +5,7 @@ tags:
   - zone
 ---
 ## Description
+Zona bastante lineal. Tiene que llevar al jugador hasta una frontera donde termina la EA.
 
 ## Story Events
 

@@ -7,6 +7,7 @@ tags:
   - pollux-branch
 ---
 ## Description
+Zona estilo base del team rocket. [[Pollux Branch]] te atacan y hay bastante loot. Al final podemos poner una pelea más dificil.
 
 ## Story Events
 
@@ -18,11 +19,6 @@ tags:
 ## Leads to 
 [[Safa's Passage]]
 ## Relevant Characters
-
-## Monsters
-- Spawns
-
-- Guardian
 
 ## Loot
 - Recipes

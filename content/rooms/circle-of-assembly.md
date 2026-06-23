@@ -10,7 +10,7 @@ tags: [room]
     </div>
   </div>
   <div class="room-desc">
-    <p>The Circle Of Assembly is a precision workshop where mechanical components are assembled into complex constructs. Its blueprints are still being researched.</p>
+    <p>The Circle Of Assembly is an advanced workshop where mechanical components are assembled into complex constructs. It uses out-of-this-world technology.</p>
   </div>
 
 

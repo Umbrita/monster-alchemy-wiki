@@ -5,14 +5,8 @@ tags:
   - point-of-interest
 ---
 ## Description
-
-## Story Events
-
-## Quests
-- Main Quests
-
-- Secondary Quests
-
+Villa disfuncional llena de [[Necromancer]] locos y repudiados. Cuando detectan al jugador, lo atacan.
+Zona opcional, debería estar a un nivel más alto que la zona en general, para volver al completar la EA.
 ## Leads to 
 [[Restless Swamp]]
 ## Relevant Characters

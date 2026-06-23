@@ -6,23 +6,8 @@ tags:
   - order
 ---
 ## Description
-
-## Story Events
-
-## Quests
-- Main Quests
-
-- Secondary Quests
+Frontera con [[Monster Kingdom]]. Solo se puede traspasar tras completar todos los coliseos.
 
 ## Leads to 
 [[Restless Swamp]]
 [[Monster Kingdom]]
-## Relevant Characters
-
-## Monsters
-- Spawns
-
-- Guardian
-
-## Loot
-- Recipes

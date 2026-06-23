@@ -5,7 +5,8 @@ tags:
   - point-of-interest
 ---
 ## Description
-
+Puesto de descanso con alguna quest. Poner Inn.
+Dan lore sobre la invasion de no muertos, estan vigilando que no lleguen a [[sythel]].
 ## Story Events
 
 ## Quests
@@ -16,12 +17,6 @@ tags:
 ## Leads to 
 [[Sythel Outskirts]]
 
-## Relevant Characters
-
-## Monsters
-- Spawns
-
-- Guardian
-
 ## Loot
 - Recipes
+[[floating-helmet]]

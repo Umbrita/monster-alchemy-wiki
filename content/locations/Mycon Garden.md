@@ -1,11 +1,11 @@
 ---
-title: Warm Village
 tags:
   - location
-  - town
+  - zone
+title: Mycon Garden
 ---
 ## Description
-4 Casas en la nieve con una Inn (no se si será necesario)
+Hidden zone with lots of [[fungal-extract]].
 ## Story Events
 
 ## Quests
@@ -14,13 +14,12 @@ tags:
 - Secondary Quests
 
 ## Leads to 
-[[Pale Route]]
+[[Xantic Fields]]
 ## Relevant Characters
 
 ## Monsters
 - Spawns
-
-- Guardian
+[[fungus-bufo]]
 
 ## Loot
 - Recipes

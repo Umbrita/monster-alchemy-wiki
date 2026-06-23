@@ -5,23 +5,14 @@ tags:
   - point-of-interest
 ---
 ## Description
-
+Zona donde encuentras knights de [[Sythel]]. Sirve para dar contexto sobre las ciudades. 
+Igual podríamos poner algo más aquí.
 ## Story Events
-
-## Quests
-- Main Quests
-
-- Secondary Quests
 
 ## Leads to
 [[River Crossing]]
 
 ## Relevant Characters
-
-## Monsters
-- Spawns
-
-- Guardian
 
 ## Loot
 - Recipes

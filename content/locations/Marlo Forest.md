@@ -5,23 +5,13 @@ tags:
   - zone
 ---
 ## Description
-
-## Story Events
-
-## Quests
-- Main Quests
-
-- Secondary Quests
-
+Zona laberíntica. Idealmente el jugador lo tiene que pasar un poco mal hasta llegar a [[Marlo Town]], mas o menos como [[Curious Cavelet]].
 ## Leads to 
 [[River Crossing]]
 [[Marlo Town]]
-## Relevant Characters
-
 ## Monsters
 - Spawns
-
-- Guardian
-
 ## Loot
 - Recipes
+Resources: [[fungal-extract]]
+Monsters: [[solsun]]

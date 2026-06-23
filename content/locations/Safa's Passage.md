@@ -5,7 +5,7 @@ tags:
   - zone
 ---
 ## Description
-
+Zona bastante abierta de paso entre [[Sythel Outskirts]], [[Golden Archipelago]], y [[Pale Route]]
 ## Story Events
 
 ## Quests
@@ -24,8 +24,6 @@ tags:
 
 ## Monsters
 - Spawns
-
-- Guardian
 
 ## Loot
 - Recipes

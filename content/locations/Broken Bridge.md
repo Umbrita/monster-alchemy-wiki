@@ -5,23 +5,13 @@ tags:
   - point-of-interest
 ---
 ## Description
-
+Hay knights de [[Sythel]] que te dan informacion sobre la inasion.
+Dicen que los [[Necromancer]] han tirado el puente y ahora hay knights atrapados en [[Uncanny Valley]].
+Te dicen que ahora solo se puede ir a [[Uncanny Valley]] a través de [[Dasht Plateau]].
 ## Story Events
 
-## Quests
-- Main Quests
-
-- Secondary Quests
-
 ## Leads to 
-[[Uncanny Valley]]
+[[Uncanny Valley]] (Podemos conectarlo igual con [[etnems-eye]])
 [[Sythel Outskirts]]
-## Relevant Characters
-
-## Monsters
-- Spawns
-
-- Guardian
-
 ## Loot
 - Recipes

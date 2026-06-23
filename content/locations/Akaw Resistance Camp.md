@@ -10,7 +10,8 @@ Campamento dónde se encuentra la [[Akaw Resistance]]
 Hay algunos akaw normales y algunos [[Necromancer]]
 ## Story Events
 No son ofensivos contra el jugados
-[[Akaw Resistance Spy]] vuelve aquí después de ser rescatado
+Ver [[Restless Swamp]].
+[[Akaw Resistance Spy]] vuelve aquí después de ser rescatado.
 ## Quests
 - Main Quests
 Rescatar a [[Akaw Resistance Spy]]

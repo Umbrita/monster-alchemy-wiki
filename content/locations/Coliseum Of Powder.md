@@ -5,22 +5,16 @@ tags:
   - coliseum
 ---
 ## Description
-
+Coliseo liderado por [[Sack Parrow]]. Al completarlo te dan la receta de [[forge]]. (Puede llegar a salir como WIP en EA)
 ## Story Events
-
-## Quests
-- Main Quests
-
-- Secondary Quests
+Ver [[Golden Archipelago]].
 
 ## Leads to 
 [[Baquén]]
 ## Relevant Characters
 [[Sack Parrow]]
 ## Monsters
-- Spawns
-
-- Guardian
-
+- Leader Team
+[[raging-gunner]]
 ## Loot
 - Recipes

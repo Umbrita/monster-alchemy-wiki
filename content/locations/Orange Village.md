@@ -5,7 +5,9 @@ tags:
   - town
 ---
 ## Description
-
+Villa que debe el nombre al dios del líquido [[Safa]] que salvó [[The Continent]] con la [[oranite]].
+Los habitantes te tienen que dar lore.
+Se pueden poner algunas secundarias.
 ## Story Events
 
 ## Quests

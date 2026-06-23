@@ -7,22 +7,13 @@ tags:
   - order
 ---
 ## Description
-
+Asentamiento de [[Medius Branch]] que intentan reducir a los [[Necromancer]].
 ## Story Events
-
-## Quests
-- Main Quests
-
-- Secondary Quests
-
+Ver [[Restless Swamp]].
+Tras terminar los sucesos de la historia, el sitio queda vacio y el jugador puede lootear.
 ## Leads to 
 [[Restless Swamp]]
 ## Relevant Characters
 [[Medius Emissary]]
-## Monsters
-- Spawns
-
-- Guardian
-
 ## Loot
 - Recipes

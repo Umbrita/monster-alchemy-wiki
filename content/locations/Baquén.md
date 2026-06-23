@@ -5,6 +5,7 @@ tags:
   - town
 ---
 ## Description
+Ciudad portuaria con mercaderes y piratas. Técnicamente los [[Auster]] están al mando, pero están sobornados por [[Sack Parrow]].
 
 ## Story Events
 
@@ -18,11 +19,6 @@ tags:
 [[Coliseum Of Powder]]
 [[Ncan Market]]
 ## Relevant Characters
-
-## Monsters
-- Spawns
-
-- Guardian
-
+[[Auster Noble 2]]
 ## Loot
 - Recipes

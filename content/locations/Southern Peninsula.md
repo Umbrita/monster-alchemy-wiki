@@ -5,9 +5,10 @@ tags:
   - zone
 ---
 ## Description
-
+First zone of the game. Used as a tutorial for crafting and types.
 ## Story Events
-
+[[zosimos]] guides the player to find the towers.
+[[purple creature]] appears and speaks to the player.
 ## Quests
 - Main Quests
 

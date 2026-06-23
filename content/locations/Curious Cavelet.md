@@ -5,9 +5,10 @@ tags:
   - dungeon
 ---
 ## Description
+Primera dungeon del juego. Sirve como introducción a las dungeons.
 
 ## Story Events
-
+[[Coward Knight]] te pide que la superes. Una vez la completas de da acceso a [[Seaside Camp]]
 ## Quests
 - Main Quests
 
@@ -19,8 +20,12 @@ tags:
 [[Coward Knight]]
 ## Monsters
 - Spawns
+[[goblin-pillager]] [[goblin-hexer]] [[scout]] [[wiwo]] [[twitchy-fluff]] [[green-slime]]
 
 - Guardian
-
+[[bone-crawler]]
 ## Loot
-- Recipes
+- Resources
+[[bone]] [[condensed-spores]]
+- Chests
+[[flame-tendon]] [[hydro-gland]] [[rough-fur]]
