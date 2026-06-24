@@ -47,19 +47,19 @@ La comunidad más prominente se forma en los lagos centrales, en la actual [[Aur
 Se empiezan a formar tensiones entre Sythel, y [[Aurol]]. 
 Para los Zanel de Íol es un orgullo servir a Zosimos, pero la mayoría de ellos viven como esclavos por miedo a abandonar el lugar y ser rechazados por el mundo. 
 Empiezan a escuchar rumores de una nueva gran ciudad Zanel y algunos abandonan Íol, hecho que hace que Zosimos tache de herejes a los Zanel desertores.
-[[Aurol]], gobernada por los Aurora, la nobleza Zanel, al tener 2 enemigos, busca maneras de fortalecerse.
+[[Aurol]], gobernada por los [Polaris], [[Noble]]s Zanel, al tener 2 enemigos, busca maneras de fortalecerse.
 Algunos primeros hijos hacen migas con los Zanel y comparten sus tradiciones.
 Combinando los conocimientos de alquimia de los Zanel y el culto a las lunas de los hijos, en [[Aurol]] se desarrolla un nuevo tipo de alquimia, la alquimia de invocación, que utiliza la influencia de Alma para crear vida desde cero.
 Con este poder, [[Aurol]] crea monstruos poderosos y declara la guerra a Sythel, guerra que termina con la victoria de [[Aurol]].
 Los Zanel, ebrios de poder y con sed de venganza, aniquilan gran parte de los primeros hijos y esclavizan a los restantes.
-Etnem no puede soportar ver cómo los habitantes originales del continente son eliminados, pero Alma le insiste en que su trabajo es mantener a los habitantes con vida, sean cuales sean, ya que técnicamente los Zanel son habitantes originarios del Continente. Y no debe intervenir físicamente en el mundo.
-Etnem además de tenerle envidia a Alma por ser capaz de crear vida, siente apego por los primeros hijos porque lo veneran. 
-Una joven primer hija, Lilith, obsesionada con Etnem y llena de odio hacia los Zanel, reza sin descanso para que éste le salve.
+[[Etnem]] no puede soportar ver cómo los habitantes originales del continente son eliminados, pero [[Alma]] insiste en que su trabajo es mantener a los habitantes con vida, sean cuales sean, ya que técnicamente los Zanel son habitantes originarios de [[The Continent]] y no debe intervenir físicamente en el mundo.
+Etnem además de tenerle envidia a [[Alma]] por ser capaz de crear vida, siente apego por los primeros hijos porque lo veneran. 
+Una joven primer hija, [[Lilith]], obsesionada con [[Etnem]] y llena de odio hacia los Zanel, reza sin descanso para que éste le salve.
 Etnem decide, a espaldas de Alma, dotarla con el poder de controlar a seres sin alma. 
 Gracias a este poder los primeros hijos forman una resistencia de no muertos que acaba causando la muerte de muchos zanel de [[Aurol]].
 Zosimos se mantiene al margen porque no afecta en Íol y le queda poco tiempo a su ciclo en el Continente.
-El poder de Etnem es tan letal que los Zanel y los primeros hijos llegan a un acuerdo; todos los primeros hijos serán liberados y el contacto entre razas queda prohibido. Se dividen los territorios; los Zanel se quedan en la superficie y los primeros hijos en el inframundo. Bajo ninguna circunstancia pueden traspasar esos límites y todas las entradas al inframundo quedan selladas.
-Los primeros hijos viven en el inframundo bajo condiciones hostiles y siguen adorando a Etnem y a Lilith como su salvadora. Con el tiempo su aspecto cambia para adaptarse al nuevo ambiente. Aparece una rama de los primeros hijos que culpan a Lilith por su exilio y que creen que se podría haber hecho de otra forma.
+El poder de [[Lilith]] es tan letal que los Zanel y los primeros hijos llegan a un acuerdo; todos los primeros hijos serán liberados y el contacto entre razas queda prohibido. Se dividen los territorios; los Zanel se quedan en la superficie y los primeros hijos en el inframundo. Bajo ninguna circunstancia pueden traspasar esos límites y todas las entradas al inframundo quedan selladas.
+Los primeros hijos viven en el inframundo y siguen adorando a [[Etnem]] y a [[Lilith]] como su salvadora. Con el tiempo su aspecto cambia para adaptarse al nuevo ambiente. Aparece una rama de los primeros hijos que culpan a [[Lilith]] por su exilio y que creen que se podría haber hecho de otra forma.
 Zosimos termina felizmente su ciclo y vuelve a [[Aetheria]].
 
 ## Second Alchemist
