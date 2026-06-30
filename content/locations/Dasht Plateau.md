@@ -31,3 +31,5 @@ Cuando llegas al cañón central llegar te encuentras a [[Aspirant Rival]] y vue
 TBD
 ## Loot
 - Recipes
+- New Resources:
+[[ectoplasm]]

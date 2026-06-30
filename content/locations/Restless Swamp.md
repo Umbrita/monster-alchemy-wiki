@@ -39,3 +39,6 @@ Liberar a [[Akaw Resistance]]
 
 ## Loot
 - Recipes
+[[resentment-serum]] [[incense]] [[mystic-unguent]] [[fiery-heart]]
+- New resources:
+[[black-wood]] [[muddy-petal]] [[coagulated-blood]] [[rotten-meat]]

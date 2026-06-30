@@ -27,8 +27,8 @@ Zona dónde estaba el reino antiguo de [[Vespera]].
 	- [[zombie]]
 	- [[disturbing-silhouette]]
 	- [[baby-shadow]]
-
-- Guardian
-
 ## Loot
 - Recipes
+[[rotten-mixture]] [[liquid-shadow]] [[death-dust]]
+- New Resources
+[[rotten-meat]] [[shadow-fragment]] [[coagulated-blood]] (rare)

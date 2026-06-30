@@ -31,3 +31,6 @@ Deberias empezar en una altura elevada, y al completar [[Cryptic Grotto]] sales 
 
 ## Loot
 - Recipes
+[[ritual-powder]] [[osseous-plaster]]
+- New Resources
+[[bone]] [[ectoplasm]] [[shadow-fragment]] (rare)
